@@ -1,0 +1,101 @@
+# First-party claim allowlist — what a variant is permitted to assert about Rippling.
+#
+# WHY THIS FILE EXISTS
+# cro/compliance.py maps every comparative or factual assertion in generated copy to
+# either (a) a CLM/CAN id in the competitor ledger, or (b) a FACT id here. Anything
+# unmappable gets the variant rejected outright. Competitor claims are evidenced by
+# the ledger; claims about OURSELVES need their own evidence, and that is this file.
+#
+# THE DEFAULT IS UNUSABLE
+# `verified: false` behaves exactly like an unsourced claim — compliance.py must
+# refuse it. This is deliberate: an allowlist that trusts its own unverified entries
+# is not an allowlist. Nothing here ships until a human confirms it against a real,
+# public, linkable source.
+#
+# PROVENANCE NOTE (read before Tuesday)
+# The competitive-intel agent only ever crawled COMPETITORS, so none of these facts
+# came out of the shipped ledgers. Every entry below is seeded from the project brief
+# and is therefore UNVERIFIED. Verify against rippling.com and paste the URL into
+# `source_url` before relying on any of it. Do not demo a variant whose claims rest
+# on an unverified fact — that is precisely the failure mode this file prevents.
+#
+# SCHEMA
+#   id           FACT-xxx, referenced from Variant.claim_refs
+#   statement    the assertion, phrased as copy could use it
+#   category     pricing | product_scope | coverage | proof | differentiator
+#   source_url   public, linkable, first-party. REQUIRED for verified: true
+#   source_note  what on that page establishes it
+#   verified     false until a human confirms. false = unusable.
+
+facts:
+  - id: FACT-001
+    statement: "Rippling is a compound platform spanning HR, IT, and Finance"
+    category: product_scope
+    source_url: "https://www.rippling.com"
+    source_note: "TODO: rippling.com homepage or platform page naming all three pillars"
+    verified: false
+
+  - id: FACT-002
+    statement: "Rippling offers 30+ products on one platform"
+    category: product_scope
+    source_url: "https://www.rippling.com/products"
+    source_note: >-
+      TODO: confirm the CURRENT number and its source page. A stale product count is
+      the single most likely way this file ships a wrong claim — the number moves.
+    verified: false
+
+  - id: FACT-003
+    statement: "Rippling pricing starts at approximately $8/user/month, modular by product"
+    category: pricing
+    source_url: "https://www.rippling.com/blog/rippling-payroll-review"
+    source_note: >-
+      TODO: rippling.com/pricing. Confirm the floor, whether it is per-user-per-month,
+      and any minimum seat count. Pricing claims carry the most legal exposure of
+      anything here — verify exactly, or drop this fact rather than approximate it.
+    verified: false
+
+  - id: FACT-004
+    statement: "Rippling includes device management (MDM) and single sign-on (SSO) in its IT Cloud"
+    category: differentiator
+    source_url: "https://www.rippling.com/products/it/device-management"
+    source_note: >-
+      TODO: rippling.com IT/device-management page. This is the highest-value fact in
+      the file — it is the capability the Gusto ledger shows has no competitor
+      equivalent, so it anchors the strongest counter-positioning variants.
+    verified: false
+
+  - id: FACT-005
+    statement: "Rippling supports multi-state US payroll"
+    category: coverage
+    source_url: "https://www.rippling.com/blog/multi-state-payroll-processing"
+    source_note: >-
+      TODO: confirm on the payroll product page. Needed by any variant built on the
+      Gusto multi-state ceiling angle (CAN-009 / CAN-002 in the Gusto ledger).
+    verified: false
+
+  - id: FACT-006
+    statement: "Rippling supports hiring and paying international employees and contractors"
+    category: coverage
+    source_url: ""
+    source_note: >-
+      TODO: confirm scope precisely — EOR vs contractor-only vs owned entities differ
+      materially, and the Deel ledger makes this the contested ground. Do not
+      generalize; state exactly what is supported.
+    verified: false
+
+  - id: FACT-007
+    statement: "Rippling scales from small business through enterprise on the same platform"
+    category: differentiator
+    source_url: "https://www.rippling.com/blog/best-payroll-software-for-small-businesses"
+    source_note: >-
+      TODO: needs a concrete proof point (named enterprise customer, headcount range,
+      or case study), not just marketing language. As written this is a positioning
+      claim, not a checkable fact — either evidence it or delete it.
+    verified: false
+
+# --- Verification checklist before any live demo -----------------------------
+# 1. Open rippling.com, fill source_url for each fact you intend to use.
+# 2. Flip verified: true ONLY where the URL genuinely establishes the statement.
+# 3. Delete any fact you cannot source. A shorter verified list beats a longer
+#    aspirational one — same principle as the confidence gate.
+# 4. Re-run: make cro PAGE=... and confirm no shipped variant cites an unverified id.

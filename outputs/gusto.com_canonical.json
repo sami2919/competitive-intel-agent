@@ -1,0 +1,532 @@
+[
+  {
+    "id": "CAN-001",
+    "competitor": "gusto.com",
+    "category": "messaging",
+    "canonical_statement": "Gusto has achieved 500,000+ businesses using its platform",
+    "member_claim_ids": [
+      "CLM-001",
+      "CLM-058"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://gusto.com",
+        "excerpt": "500,000+ businesses trust Gusto",
+        "fetched_at": "2026-07-16T00:38:48.639518Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "https://www.prnewswire.com/news-releases/gusto-reaches-500-000-customers-and-unveils-nearly-75-new-features-for-small-businesses-302751686.html",
+        "excerpt": "more than 500,000 small businesses rely on Gusto to manage their payroll, benefits, tax credits, compliance, HR, and more",
+        "fetched_at": "2026-07-16T00:41:12.379702Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 2 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 50,
+    "winning_score_trace": "winning=50/100 (corroboration 20, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-002",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "canonical_statement": "Gusto positions itself as simplifying payroll, HR, and benefits administration",
+    "member_claim_ids": [
+      "CLM-002",
+      "CLM-024",
+      "CLM-028",
+      "CLM-037",
+      "CLM-043",
+      "CLM-067"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://gusto.com",
+        "excerpt": "Payroll, HR, Benefits. Simplified.",
+        "fetched_at": "2026-07-16T00:38:48.639707Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "meta-ad-library:gusto.com (page_id 187776731324057)",
+        "excerpt": "Choose Gusto for payroll, benefits, and more\u2014built for small businesses.",
+        "fetched_at": "2026-07-16T00:39:05.848180Z",
+        "utm_params": null,
+        "first_seen": "2026-04-13T00:00:00Z",
+        "last_seen": "2026-07-16T00:39:05.848180Z"
+      },
+      {
+        "source_url": "google-ads:gusto.com",
+        "excerpt": "Manage payroll , benefits , onboarding , and compliance with Gusto's all - in - one platform",
+        "fetched_at": "2026-07-16T00:39:56.725468Z",
+        "utm_params": null,
+        "first_seen": "2024-05-03T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      },
+      {
+        "source_url": "social:https://gusto.com/blog",
+        "excerpt": "Starting a Business, Hiring and Growth, Finance and Taxes, Team Management, State Business Resource Hub",
+        "fetched_at": "2026-07-16T00:40:58.354434Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "g2:https://www.g2.com/products/gusto/reviews",
+        "excerpt": "Gusto is a comprehensive human resources (HR) solution designed to assist businesses in managing their payroll, benefits, hiring, and employee management",
+        "fetched_at": "2026-07-16T00:41:18.829107Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (5 sources)",
+    "signal": "cross_channel_winner",
+    "signal_trace": "same message corroborated across 5 independent ad sources",
+    "winning_score": 100,
+    "winning_score_trace": "winning=100/100 (corroboration 40, persistence 30, recency 30)"
+  },
+  {
+    "id": "CAN-003",
+    "competitor": "gusto.com",
+    "category": "messaging",
+    "canonical_statement": "Gusto automatically calculates taxes and handles federal, state, and local payroll tax forms and filings",
+    "member_claim_ids": [
+      "CLM-011",
+      "CLM-018",
+      "CLM-025",
+      "CLM-035",
+      "CLM-038",
+      "CLM-040"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://gusto.com",
+        "excerpt": "Gusto automatically calculates and syncs your team's hours, PTO, and holidays with payroll. Plus, we help you stay compliant",
+        "fetched_at": "2026-07-16T00:38:48.639897Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "https://gusto.com/product/pricing",
+        "excerpt": "We file federal, state, and local payroll tax forms on your company's behalf (things like Form W-2, Form 1099, Form 940, Form 941)",
+        "fetched_at": "2026-07-16T00:38:48.640067Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "meta-ad-library:gusto.com (page_id 187776731324057)",
+        "excerpt": "Forget the \"did I do that?\" moments. Gusto keeps payroll, taxes, and compliance accurate and on schedule.",
+        "fetched_at": "2026-07-16T00:39:05.848230Z",
+        "utm_params": null,
+        "first_seen": "2026-06-04T00:00:00Z",
+        "last_seen": "2026-07-16T00:39:05.848230Z"
+      },
+      {
+        "source_url": "google-ads:gusto.com",
+        "excerpt": "Auto File Taxes With Gusto",
+        "fetched_at": "2026-07-16T00:39:56.725434Z",
+        "utm_params": null,
+        "first_seen": "2024-05-03T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      },
+      {
+        "source_url": "wayback:https://gusto.com/",
+        "excerpt": "Automated deductions, direct deposit and tax filing",
+        "fetched_at": "2026-07-16T00:40:52.789156Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (5 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 5 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 100,
+    "winning_score_trace": "winning=100/100 (corroboration 40, persistence 30, recency 30)"
+  },
+  {
+    "id": "CAN-004",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "canonical_statement": "Gusto receives high satisfaction ratings and recognition on G2",
+    "member_claim_ids": [
+      "CLM-007",
+      "CLM-039",
+      "CLM-066"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://gusto.com",
+        "excerpt": "G2 - #1 highest satisfaction software, G2 Review 2026",
+        "fetched_at": "2026-07-16T00:38:48.639821Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "wayback:https://gusto.com/",
+        "excerpt": "#1 in Satisfaction Score",
+        "fetched_at": "2026-07-16T00:40:52.788906Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "g2:https://www.g2.com/products/gusto/reviews",
+        "excerpt": "4.6/5(11,742)",
+        "fetched_at": "2026-07-16T00:41:18.829054Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (3 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 3 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 60,
+    "winning_score_trace": "winning=60/100 (corroboration 30, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-005",
+    "competitor": "gusto.com",
+    "category": "messaging",
+    "canonical_statement": "Gusto integrates with accounting software including QuickBooks, Xero, Aplos, ZipBooks, Autobooks, and FreshBooks",
+    "member_claim_ids": [
+      "CLM-017",
+      "CLM-056"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/product/pricing",
+        "excerpt": "We work with accounting programs like QuickBooks, Xero, Aplos, ZipBooks, Autobooks, and FreshBooks",
+        "fetched_at": "2026-07-16T00:38:48.640052Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "https://www.prnewswire.com/news-releases/gusto-launches-cofounder-an-ai-teammate-purpose-built-for-small-business-302787745.html",
+        "excerpt": "Gusto Cofounder integrates with Google Workspace, Notion, Slack, and other tools small businesses already use",
+        "fetched_at": "2026-07-16T00:41:12.379668Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 2 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 50,
+    "winning_score_trace": "winning=50/100 (corroboration 20, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-006",
+    "competitor": "gusto.com",
+    "category": "messaging",
+    "canonical_statement": "Gusto enables unlimited payroll runs per month at no extra cost",
+    "member_claim_ids": [
+      "CLM-019",
+      "CLM-020"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/product/pricing",
+        "excerpt": "Every Gusto plan comes with unlimited payroll runs",
+        "fetched_at": "2026-07-16T00:38:48.640081Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "meta-ad-library:gusto.com (page_id 187776731324057)",
+        "excerpt": "Pay your team weekly, or use different pay schedules \u2014 you can run infinite payrolls at no extra cost.",
+        "fetched_at": "2026-07-16T00:39:05.847644Z",
+        "utm_params": null,
+        "first_seen": "2026-02-20T00:00:00Z",
+        "last_seen": "2026-07-16T00:39:05.847644Z"
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 2 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 62,
+    "winning_score_trace": "winning=62/100 (corroboration 20, persistence 12, recency 30)"
+  },
+  {
+    "id": "CAN-007",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "canonical_statement": "Gusto targets solopreneurs and S-corp owners with tax savings and compliance automation",
+    "member_claim_ids": [
+      "CLM-021",
+      "CLM-026",
+      "CLM-030",
+      "CLM-042",
+      "CLM-052"
+    ],
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:gusto.com (page_id 187776731324057)",
+        "excerpt": "Save hours on compliance and thousands on your taxes as an S-corp. Try Gusto Solo today.",
+        "fetched_at": "2026-07-16T00:39:05.847838Z",
+        "utm_params": null,
+        "first_seen": "2026-04-10T00:00:00Z",
+        "last_seen": "2026-07-16T00:39:05.847838Z"
+      },
+      {
+        "source_url": "wayback:https://gusto.com/",
+        "excerpt": "Solopreneur? Payroll, tax savings, and benefits for your business.",
+        "fetched_at": "2026-07-16T00:40:52.789204Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "https://gusto.com/company-news/gusto-solo-announcement",
+        "excerpt": "they're too big for personal finance tools, but are not looking to hire a team to help manage these tasks for them",
+        "fetched_at": "2026-07-16T00:41:12.379604Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (3 sources)",
+    "signal": "cross_channel_winner",
+    "signal_trace": "same message corroborated across 3 independent ad sources",
+    "winning_score": 68,
+    "winning_score_trace": "winning=68/100 (corroboration 30, persistence 8, recency 30)"
+  },
+  {
+    "id": "CAN-008",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "canonical_statement": "Gusto positions switching or migration from competitor HR software as a key campaign angle",
+    "member_claim_ids": [
+      "CLM-023",
+      "CLM-031"
+    ],
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:gusto.com (page_id 187776731324057)",
+        "excerpt": "Switching is easy! Join Gusto to seamlessly pay, insure, and support your team today.",
+        "fetched_at": "2026-07-16T00:39:05.848148Z",
+        "utm_params": null,
+        "first_seen": "2026-04-13T00:00:00Z",
+        "last_seen": "2026-07-16T00:39:05.848148Z"
+      },
+      {
+        "source_url": "google-ads:gusto.com",
+        "excerpt": "Switch to Gusto HR Software - Free Account Setup",
+        "fetched_at": "2026-07-16T00:39:56.725203Z",
+        "utm_params": null,
+        "first_seen": "2022-12-14T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "cross_channel_winner",
+    "signal_trace": "same message corroborated across 2 independent ad sources",
+    "winning_score": 80,
+    "winning_score_trace": "winning=80/100 (corroboration 20, persistence 30, recency 30)"
+  },
+  {
+    "id": "CAN-009",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "canonical_statement": "Gusto emphasizes simplicity, ease of use, and reliability as competitive advantages",
+    "member_claim_ids": [
+      "CLM-032",
+      "CLM-034",
+      "CLM-064"
+    ],
+    "evidence": [
+      {
+        "source_url": "google-ads:gusto.com",
+        "excerpt": "84 % of our customers say Gusto makes it very easy to",
+        "fetched_at": "2026-07-16T00:39:56.725371Z",
+        "utm_params": null,
+        "first_seen": "2022-12-14T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      },
+      {
+        "source_url": "https://gusto.com/careers",
+        "excerpt": "Speed and learning velocity are competitive advantages. We run tight feedback loops, form clear hypotheses, test quickly, and improve relentlessly.",
+        "fetched_at": "2026-07-16T00:41:16.271623Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "cross_channel_winner",
+    "signal_trace": "same message corroborated across 2 independent ad sources",
+    "winning_score": 80,
+    "winning_score_trace": "winning=80/100 (corroboration 20, persistence 30, recency 30)"
+  },
+  {
+    "id": "CAN-010",
+    "competitor": "gusto.com",
+    "category": "messaging",
+    "canonical_statement": "Gusto offers guidance on tax credits including EITC, WOTC, and R&D Credit",
+    "member_claim_ids": [
+      "CLM-012",
+      "CLM-045",
+      "CLM-061"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://gusto.com",
+        "excerpt": "identify tax credits to help save you money you may never have known you qualified for",
+        "fetched_at": "2026-07-16T00:38:48.639939Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "social:https://gusto.com/blog",
+        "excerpt": "What Is the Earned Income Tax Credit, Work Opportunity Tax Credit (WOTC), How to Reduce Self-Employment Tax with an S Corp, How to File a Retroactive Claim for the Federal R&D Tax Credit",
+        "fetched_at": "2026-07-16T00:40:58.354542Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "https://www.prnewswire.com/news-releases/gusto-reaches-500-000-customers-and-unveils-nearly-75-new-features-for-small-businesses-302751686.html",
+        "excerpt": "two new credits: the FICA Tips Tax Credit and the 401(k) Tax Credit",
+        "fetched_at": "2026-07-16T00:41:12.379745Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (3 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 3 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 60,
+    "winning_score_trace": "winning=60/100 (corroboration 30, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-011",
+    "competitor": "gusto.com",
+    "category": "social_content",
+    "canonical_statement": "Gusto provides educational and social content on payroll, taxes, and business ownership",
+    "member_claim_ids": [
+      "CLM-044",
+      "CLM-048"
+    ],
+    "evidence": [
+      {
+        "source_url": "social:https://gusto.com/blog",
+        "excerpt": "How Do I Set Up Payroll for the First Time? The Employer's Complete Guide",
+        "fetched_at": "2026-07-16T00:40:58.354523Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single source, kept at 0.7",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-012",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "canonical_statement": "Gusto positions USDC stablecoin and same-day international contractor payments as protecting against currency volatility",
+    "member_claim_ids": [
+      "CLM-049",
+      "CLM-050"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/company-news/same-day-international-contractor-payments",
+        "excerpt": "eligible Gusto employers can pay international contractors the same day with two new same-day payment options: Wise Account and Stablecoin (USDC)",
+        "fetched_at": "2026-07-16T00:41:12.379453Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single source, kept at 0.5",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-013",
+    "competitor": "gusto.com",
+    "category": "recent_change",
+    "canonical_statement": "Gusto Solo is a compliance and payroll platform purpose-built for solopreneurs with S-corp tax savings",
+    "member_claim_ids": [
+      "CLM-051",
+      "CLM-053"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/company-news/gusto-solo-announcement",
+        "excerpt": "Gusto Solo is a purpose-built platform empowering solopreneurs to thrive\u2014unlocking financial advantages and simplifying compliance",
+        "fetched_at": "2026-07-16T00:41:12.379588Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single source, kept at 0.5",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-014",
+    "competitor": "gusto.com",
+    "category": "recent_change",
+    "canonical_statement": "Gusto Cofounder is an AI teammate that handles administrative work and integrates with Google Workspace, Notion, and Slack",
+    "member_claim_ids": [
+      "CLM-054",
+      "CLM-055"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.prnewswire.com/news-releases/gusto-launches-cofounder-an-ai-teammate-purpose-built-for-small-business-302787745.html",
+        "excerpt": "Gusto Cofounder, an AI teammate built specifically for small business owners. Unlike general-purpose AI tools that start from a blank slate, Cofounder launches with context from Gusto and customer-authorized connected tools",
+        "fetched_at": "2026-07-16T00:41:12.379639Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single source, kept at 0.5",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  }
+]

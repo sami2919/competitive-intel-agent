@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "CLM-001",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel provides hire, manage, pay, and equip services for global teams",
+    "evidence": [
+      {
+        "source_url": "https://deel.com",
+        "excerpt": "Hire, manage, pay, & equip anyone, anywhere.",
+        "fetched_at": "2026-07-15T22:02:05.944530Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-002",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "statement": "Deel is trusted by 40,000+ companies across company sizes",
+    "evidence": [
+      {
+        "source_url": "https://deel.com",
+        "excerpt": "Trusted by 40,000+ companies from startups to enterprise",
+        "fetched_at": "2026-07-15T22:02:05.944802Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-002",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-003",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "statement": "Deel has processed $20B+ in compliant global payroll",
+    "evidence": [
+      {
+        "source_url": "https://deel.com",
+        "excerpt": "$20B+ compliantly processed global payroll",
+        "fetched_at": "2026-07-15T22:02:05.944899Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-004",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "statement": "Deel achieves 4.8/5 rating on G2 with 14,000+ reviews",
+    "evidence": [
+      {
+        "source_url": "https://deel.com",
+        "excerpt": "4.8/5|14K+ Reviews",
+        "fetched_at": "2026-07-15T22:02:05.944965Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-001",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-005",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "statement": "Deel achieves 4.8/5 rating on Trustpilot with 8,000+ reviews",
+    "evidence": [
+      {
+        "source_url": "https://deel.com",
+        "excerpt": "4.8/5|8K+ Reviews",
+        "fetched_at": "2026-07-15T22:02:05.945018Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-006",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "statement": "Deel supports 150+ countries for global hiring",
+    "evidence": [
+      {
+        "source_url": "https://deel.com",
+        "excerpt": "150+ countries",
+        "fetched_at": "2026-07-15T22:02:05.945069Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-007",
+    "competitor": "deel.com",
+    "category": "pricing",
+    "statement": "Deel provides transparent pricing with no hidden fees",
+    "evidence": [
+      {
+        "source_url": "https://www.deel.com/pricing",
+        "excerpt": "Transparent and fair pricing that grows with your business",
+        "fetched_at": "2026-07-15T22:02:05.945121Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-004",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-008",
+    "competitor": "deel.com",
+    "category": "pricing",
+    "statement": "Deel EOR pricing starts at $599 per employee per month",
+    "evidence": [
+      {
+        "source_url": "https://www.deel.com/pricing",
+        "excerpt": "Starting at $599per employee per month",
+        "fetched_at": "2026-07-15T22:02:05.945186Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-009",
+    "competitor": "deel.com",
+    "category": "pricing",
+    "statement": "Deel Contractor pricing starts at $49 per contractor per month",
+    "evidence": [
+      {
+        "source_url": "https://www.deel.com/pricing",
+        "excerpt": "Starting at $49per contractor per month",
+        "fetched_at": "2026-07-15T22:02:05.945234Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-010",
+    "competitor": "deel.com",
+    "category": "pricing",
+    "statement": "Deel US PEO pricing starts at $125 per employee per month",
+    "evidence": [
+      {
+        "source_url": "https://www.deel.com/pricing",
+        "excerpt": "Starting at $125per US PEO employee per month",
+        "fetched_at": "2026-07-15T22:02:05.945290Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-011",
+    "competitor": "deel.com",
+    "category": "pricing",
+    "statement": "Deel offers flexible month-to-month pricing with no long-term contracts required",
+    "evidence": [
+      {
+        "source_url": "https://www.deel.com/pricing",
+        "excerpt": "No, Deel offers flexible month-to-month pricing with no long-term commitments required.",
+        "fetched_at": "2026-07-15T22:02:05.945578Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-004",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-012",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "statement": "Deel achieves NPS of 90+ for enterprise customers",
+    "evidence": [
+      {
+        "source_url": "https://deel.com",
+        "excerpt": "90+ NPS for enterprise customers",
+        "fetched_at": "2026-07-15T22:02:05.945804Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-013",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel HR manages employee lifecycle across 150+ countries from a single global platform",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:deel.com",
+        "excerpt": "Deel HR te ayuda a gestionar cada etapa del ciclo de vida del colaborador en m\u00e1s de 150 pa\u00edses, desde una \u00fanica plataforma dise\u00f1ada para operar a nivel global.",
+        "fetched_at": "2026-07-15T22:02:24.582673Z",
+        "utm_params": null,
+        "first_seen": "2026-05-29T00:00:00Z",
+        "last_seen": "2026-05-29T00:00:00Z"
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-003",
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-014",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel enables employee visas, expatriation, and payment in 110+ countries",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:deel.com",
+        "excerpt": "Fid\u00e9lisez vos collaborateurs en leur permettant d'obtenir des visas, de s'expatrier et d'\u00eatre pay\u00e9s dans + de 110 pays.",
+        "fetched_at": "2026-07-15T22:02:24.582855Z",
+        "utm_params": null,
+        "first_seen": "2026-04-25T00:00:00Z",
+        "last_seen": "2026-05-06T00:00:00Z"
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-015",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel is Workday's trusted payroll partner",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:deel.com",
+        "excerpt": "Discover the payroll partner Workday trusts. With Workday + Deel, you'll get a comprehensive way to manage your data, minus the manual headaches.",
+        "fetched_at": "2026-07-15T22:02:24.582924Z",
+        "utm_params": null,
+        "first_seen": "2026-04-01T00:00:00Z",
+        "last_seen": "2026-04-01T00:00:00Z"
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-016",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel has fully-owned infrastructure in 130+ countries enabling fast global hiring",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:deel.com",
+        "excerpt": "Want to hire anywhere in the world? Deel's fully-owned infrastructure in 130+ countries lets you expand fast\u2014without the vendor drama",
+        "fetched_at": "2026-07-15T22:02:24.582979Z",
+        "utm_params": null,
+        "first_seen": "2026-04-08T00:00:00Z",
+        "last_seen": "2026-04-08T00:00:00Z"
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-017",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel unifies payroll, HR, and legal compliance in a single platform",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:deel.com",
+        "excerpt": "Quando a folha de pagamento, RH e a conformidade legal funcionam em sistemas diferentes, \u00e9 f\u00e1cil cometer erros. A Deel une tudo em uma plataforma simples e eficiente que seus funcion\u00e1rios v\u00e3o adorar.",
+        "fetched_at": "2026-07-15T22:02:24.583028Z",
+        "utm_params": null,
+        "first_seen": "2026-01-12T00:00:00Z",
+        "last_seen": "2026-04-02T00:00:00Z"
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-003",
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-018",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel streamlines contractor onboarding and payment in minutes",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:deel.com",
+        "excerpt": "Pare de correr atr\u00e1s de faturas e lidar com planilhas complicadas. Com a Deel, voc\u00ea convida, integra e paga prestadores de servi\u00e7os em minutos.",
+        "fetched_at": "2026-07-15T22:02:24.583203Z",
+        "utm_params": null,
+        "first_seen": "2026-01-21T00:00:00Z",
+        "last_seen": "2026-05-29T00:00:00Z"
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-019",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel simplifies payroll with send-review-approve workflow",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:deel.com",
+        "excerpt": "A Deel cuida da sua folha de pagamento. \u00c9 s\u00f3 enviar, revisar e aprovar em poucos cliques, tudo em um s\u00f3 painel.",
+        "fetched_at": "2026-07-15T22:02:24.583301Z",
+        "utm_params": null,
+        "first_seen": "2026-01-12T00:00:00Z",
+        "last_seen": "2026-04-12T00:00:00Z"
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-020",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Global team management with Deel eliminates reliance on spreadsheets and manual processes",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:deel.com",
+        "excerpt": "If global team management feels like it's held together by duct tape and spreadsheets\u2026 you're not alone. Here's what Deel takes off your plate.",
+        "fetched_at": "2026-07-15T22:02:24.583391Z",
+        "utm_params": null,
+        "first_seen": "2026-04-01T00:00:00Z",
+        "last_seen": "2026-04-01T00:00:00Z"
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-021",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel provides offboarding checklist with legal documentation and exit process templates",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:deel.com",
+        "excerpt": "Desvincula empleados de forma correcta y sin complicaciones. Este checklist gratuito incluye:\n- Documentaci\u00f3n legal y cartas clave.\n- Entrevistas de salida estructuradas.\n- Recuperaci\u00f3n de activos y c",
+        "fetched_at": "2026-07-15T22:02:24.583441Z",
+        "utm_params": null,
+        "first_seen": "2026-03-13T00:00:00Z",
+        "last_seen": "2026-04-11T00:00:00Z"
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-022",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel case study: Directional Pizza saved $74K headcount costs and $100K HRIS expenses while expanding to 3 new markets",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:deel.com",
+        "excerpt": "Deel helped Directional Pizza save $74K in headcount costs and over $100K in HRIS expenses\u2014while expanding into 3 new markets with a single global payroll platform.",
+        "fetched_at": "2026-07-15T22:02:24.583486Z",
+        "utm_params": null,
+        "first_seen": "2026-04-25T00:00:00Z",
+        "last_seen": "2026-04-25T00:00:00Z"
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-023",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel offers US visa guidance for entrepreneurs and founders",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:deel.com",
+        "excerpt": "Navigate the US visa process with ease. Our guide simplifies the visa process for founders. Inside you'll find:\n\n- Detailed visa pathways\n- Tailored for entrepreneurs\n- Success strategies included",
+        "fetched_at": "2026-07-15T22:02:24.583533Z",
+        "utm_params": null,
+        "first_seen": "2026-04-25T00:00:00Z",
+        "last_seen": "2026-04-25T00:00:00Z"
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-024",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel helps enterprise teams stay compliant with changing Australian payroll laws across states and entities",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:deel.com",
+        "excerpt": "Payroll laws in Australia are changing. Deel helps enterprise teams stay compliant, connected, and confident\u2014across every state and entity.",
+        "fetched_at": "2026-07-15T22:02:24.583578Z",
+        "utm_params": null,
+        "first_seen": "2026-04-01T00:00:00Z",
+        "last_seen": "2026-04-01T00:00:00Z"
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-025",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel case study: BCG achieved 30% growth in 4 years through centralized international payroll management",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:deel.com",
+        "excerpt": "D\u00e9couvrez comment BCG a connu une croissance de 30% en 4 ans et centralis\u00e9 sa gestion de la paie \u00e0 l'international.",
+        "fetched_at": "2026-07-15T22:02:24.583621Z",
+        "utm_params": null,
+        "first_seen": "2026-04-25T00:00:00Z",
+        "last_seen": "2026-04-25T00:00:00Z"
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-026",
+    "competitor": "deel.com",
+    "category": "ads_search",
+    "statement": "Deel runs a paid search ad on IT security positioning for remote-first teams",
+    "evidence": [
+      {
+        "source_url": "google-ads:deel.com",
+        "excerpt": "Fully Managed IT Security \u2014 Shield every device with in-house security built for global, remote-first teams.",
+        "fetched_at": "2026-07-15T22:03:01.037169Z",
+        "utm_params": null,
+        "first_seen": "2025-07-03T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.6,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; expansion +0.1; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (377d) \u2014 durable creative, proxy for performance; expanded to multiple regions",
+    "canonical_id": null,
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-027",
+    "competitor": "deel.com",
+    "category": "ads_search",
+    "statement": "Deel runs a paid search ad on global payroll consolidation",
+    "evidence": [
+      {
+        "source_url": "google-ads:deel.com",
+        "excerpt": "Global Payroll Software \u2014 Consolidate your global payroll into one unified engine with total G2N visibility.",
+        "fetched_at": "2026-07-15T22:03:01.037394Z",
+        "utm_params": null,
+        "first_seen": "2026-06-11T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "possible_test",
+    "signal_trace": "running < 90d (34d) \u2014 new/narrow, may be an active test",
+    "canonical_id": null,
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-028",
+    "competitor": "deel.com",
+    "category": "ads_search",
+    "statement": "Deel runs a paid search ad targeting H-1B visa sponsorship for U.S. employers",
+    "evidence": [
+      {
+        "source_url": "google-ads:deel.com",
+        "excerpt": "H\u20111B for U.S. Employers - Cost of Sponsoring H\u20111B \u2014 Deel helps with H\u20111B visa filings, costs, and employer compliance. Looking to sponsor an H\u20111B? Deel simplifies the process from start to finish.",
+        "fetched_at": "2026-07-15T22:03:01.037500Z",
+        "utm_params": null,
+        "first_seen": "2026-06-23T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.4,
+    "confidence_trace": "inferred 0.3; expansion +0.1; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "possible_test",
+    "signal_trace": "running < 90d (22d) \u2014 new/narrow, may be an active test; expanded to multiple regions",
+    "canonical_id": null,
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-029",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel offers payroll, compliance, HR, and HRIS solutions for global teams",
+    "evidence": [
+      {
+        "source_url": "wayback:https://deel.com/",
+        "excerpt": "Payroll, HR, and compliance for global teams",
+        "fetched_at": "2026-07-15T22:04:05.586848Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "wayback_diff"
+  },
+  {
+    "id": "CLM-030",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel's product scope includes payroll, HR, IT, and immigration services",
+    "evidence": [
+      {
+        "source_url": "wayback:https://deel.com/",
+        "excerpt": "Payroll, HR, IT, and immigration for every worker type",
+        "fetched_at": "2026-07-15T22:04:05.586972Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "wayback_diff"
+  },
+  {
+    "id": "CLM-031",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "statement": "Deel positions hiring and onboarding as core product capabilities",
+    "evidence": [
+      {
+        "source_url": "wayback:https://deel.com/",
+        "excerpt": "Hiring & Onboarding",
+        "fetched_at": "2026-07-15T22:04:05.587035Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "wayback_diff"
+  },
+  {
+    "id": "CLM-032",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "statement": "Deel emphasizes global hiring capability without geographic restrictions",
+    "evidence": [
+      {
+        "source_url": "wayback:https://deel.com/",
+        "excerpt": "Hire, manage, pay, & equip anyone, anywhere",
+        "fetched_at": "2026-07-15T22:04:05.587086Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "wayback_diff"
+  },
+  {
+    "id": "CLM-033",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "statement": "Deel launched AI agents that run payroll as part of 2026 announcements",
+    "evidence": [
+      {
+        "source_url": "https://www.deel.com/blog/big-deel-recap-2026/",
+        "excerpt": "From AI agents that run payroll to a new global mobility platform and a rebuilt worker app\u2014here's every announcement from The Big Deel 2026.",
+        "fetched_at": "2026-07-15T22:04:28.077970Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-034",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "statement": "Deel announced a new global mobility platform in 2026",
+    "evidence": [
+      {
+        "source_url": "https://www.deel.com/blog/big-deel-recap-2026/",
+        "excerpt": "From AI agents that run payroll to a new global mobility platform and a rebuilt worker app\u2014here's every announcement from The Big Deel 2026.",
+        "fetched_at": "2026-07-15T22:04:28.078222Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-035",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "statement": "Deel is using Stripe to enable contractors to hold, earn, and spend a US dollar backed balance via stablecoin wallet",
+    "evidence": [
+      {
+        "source_url": "https://stripe.com/newsroom/news/deel-and-stripe",
+        "excerpt": "Deel is using Stripe to enable millions of contractors across 150+ countries to hold, earn, and spend a US dollar backed balance.",
+        "fetched_at": "2026-07-15T22:04:28.078343Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-006",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-036",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "statement": "Deel serves more than 40,000 businesses and 1.5 million workers worldwide",
+    "evidence": [
+      {
+        "source_url": "https://stripe.com/newsroom/news/deel-and-stripe",
+        "excerpt": "Deel is a global payroll and compliance platform that supports more than 40,000 businesses and 1.5 million workers worldwide.",
+        "fetched_at": "2026-07-15T22:04:28.078393Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-002",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-037",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "statement": "Deel launched a stablecoin wallet (DLUSD) available in Argentina with LATAM, APAC, MENA, and Africa to follow",
+    "evidence": [
+      {
+        "source_url": "https://stripe.com/newsroom/news/deel-and-stripe",
+        "excerpt": "The Deel stablecoin wallet is available today in Argentina, with remaining LATAM countries in the next few weeks and APAC, MENA, and Africa to follow.",
+        "fetched_at": "2026-07-15T22:04:28.078432Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-007",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-038",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "statement": "Deel is a global payroll and HR platform that helps companies hire, manage, pay, and equip any worker, anywhere",
+    "evidence": [
+      {
+        "source_url": "https://www.deel.com/press/",
+        "excerpt": "Deel is a global payroll and HR platform that helps companies hire, manage, pay, and equip any worker, anywhere.",
+        "fetched_at": "2026-07-15T22:04:28.078466Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-039",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "statement": "Deel launched Field Services (DFS) to serve the $120B field services market with purpose-built solution for on-site, high-complexity field operations",
+    "evidence": [
+      {
+        "source_url": "https://internationalbusinessnews.co.uk/deel-launches-field-services-to-scale-physical-workforces-across-global-markets/",
+        "excerpt": "New platform brings enterprise-grade HR infrastructure to on-site, high-complexity field operations, addressing the $120B field services market",
+        "fetched_at": "2026-07-15T22:04:28.078498Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-040",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "statement": "Deel Field Services covers 110+ countries including owned entities across 40+ African markets",
+    "evidence": [
+      {
+        "source_url": "https://internationalbusinessnews.co.uk/deel-launches-field-services-to-scale-physical-workforces-across-global-markets/",
+        "excerpt": "Field Services covers 110+ countries (and growing), including owned entities across 40+ African markets",
+        "fetched_at": "2026-07-15T22:04:28.078531Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-009",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-041",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "statement": "Deel Field Services is available in African markets with general availability for oil & gas, mining, construction, and heavy logistics expected by Q3 2026",
+    "evidence": [
+      {
+        "source_url": "https://internationalbusinessnews.co.uk/deel-launches-field-services-to-scale-physical-workforces-across-global-markets/",
+        "excerpt": "Deel Field Services is available today for organizations with medium-to-high complexity on-site operations in African markets. General availability for oil & gas, mining, construction, and heavy logistics is expected by Q3 2026",
+        "fetched_at": "2026-07-15T22:04:28.078561Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-009",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-042",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "statement": "Deel announced stablecoin salary payouts and formed a dedicated crypto division led by new head of crypto Thierry Edde",
+    "evidence": [
+      {
+        "source_url": "https://www.cpapracticeadvisor.com/2026/05/26/deel-announces-stablecoin-salary-payouts-new-head-of-crypto/183971/",
+        "excerpt": "Deel has launched stablecoin salary payouts and announced the formation of a dedicated crypto division, led by new head of crypto Thierry Edde.",
+        "fetched_at": "2026-07-15T22:04:28.078593Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-008",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-043",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "statement": "Deel's stablecoin salary payouts allow employees to choose whether to receive net salary in fiat or supported stablecoin",
+    "evidence": [
+      {
+        "source_url": "https://www.cpapracticeadvisor.com/2026/05/26/deel-announces-stablecoin-salary-payouts-new-head-of-crypto/183971/",
+        "excerpt": "employers fund payroll in fiat or stablecoins; employees choose whether to receive their net salary in fiat or a supported stablecoin.",
+        "fetched_at": "2026-07-15T22:04:28.078624Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-044",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "statement": "Deel stablecoin salary payouts are available for Deel EOR and global payroll customers with employees in the U.S. and across the Eurozone",
+    "evidence": [
+      {
+        "source_url": "https://www.cpapracticeadvisor.com/2026/05/26/deel-announces-stablecoin-salary-payouts-new-head-of-crypto/183971/",
+        "excerpt": "The feature, which is free for employees, is available now for Deel EOR and global payroll customers with employees in the U.S. and across the Eurozone",
+        "fetched_at": "2026-07-15T22:04:28.078653Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-005",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-045",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "statement": "Deel processed $250 million in crypto payouts in 2025",
+    "evidence": [
+      {
+        "source_url": "https://www.cpapracticeadvisor.com/2026/05/26/deel-announces-stablecoin-salary-payouts-new-head-of-crypto/183971/",
+        "excerpt": "Deel processed $250 million in crypto payouts in 2025, demand that has grown consistently year on year as workers increasingly choose stablecoin pay over local currency alternatives.",
+        "fetched_at": "2026-07-15T22:04:28.078684Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-046",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "statement": "Deel announced Series E funding of $300 million, increasing valuation to $17.3 billion",
+    "evidence": [
+      {
+        "source_url": "https://www.unleash.ai/payroll/news/deel-hits-17-3-billion-valuation-with-new-300-million-series-e-funding",
+        "excerpt": "Global HR and payroll platform Deel has announced a new Series E funding of $300 million, increasing the organization's valuation to $17.3 billion.",
+        "fetched_at": "2026-07-15T22:04:28.078715Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-047",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "statement": "Deel achieved annual recurring revenues of $1 billion for the first time earlier in 2026",
+    "evidence": [
+      {
+        "source_url": "https://www.unleash.ai/payroll/news/deel-hits-17-3-billion-valuation-with-new-300-million-series-e-funding",
+        "excerpt": "Since its foundation in 2019, Deel has experienced substantial growth, recording annual recurring revenues of $1 billion for the first time earlier this year.",
+        "fetched_at": "2026-07-15T22:04:28.078746Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-010",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-048",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "statement": "Deel became Official Sleeve Partner of Arsenal Football Club starting 2026/27 season in multi-year agreement",
+    "evidence": [
+      {
+        "source_url": "https://www.arsenal.com/news/deel-and-arsenal-announce-sleeve-partnership",
+        "excerpt": "Deel, the leading global payroll and HR platform, will become our Official Sleeve Partner from the 2026/27 season in a multi-year agreement.",
+        "fetched_at": "2026-07-15T22:04:28.078777Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-011",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-049",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "statement": "Deel was Arsenal's Official HR Platform Partner starting December 2025",
+    "evidence": [
+      {
+        "source_url": "https://www.arsenal.com/news/deel-and-arsenal-announce-sleeve-partnership",
+        "excerpt": "The agreement deepens our relationship after Deel joined the Arsenal family as our Official HR Platform Partner in December 2025.",
+        "fetched_at": "2026-07-15T22:04:28.078811Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-011",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-050",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "statement": "Deel launched stablecoin salary payouts powered by BVNK with a dedicated crypto division",
+    "evidence": [
+      {
+        "source_url": "https://thepaypers.com/crypto-web3-and-cbdc/news/deel-launches-stablecoin-salary-payouts",
+        "excerpt": "Deel has launched stablecoin salary payouts powered by BVNK and established a dedicated crypto division to oversee its digital asset operations.",
+        "fetched_at": "2026-07-15T22:04:28.078844Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-008",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-051",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "statement": "Deel stablecoin salary payouts are currently available to customers with employees in the US and across the Eurozone, with further markets launching later in 2026",
+    "evidence": [
+      {
+        "source_url": "https://thepaypers.com/crypto-web3-and-cbdc/news/deel-launches-stablecoin-salary-payouts",
+        "excerpt": "The feature is currently available to Deel customers with employees in the US and across the Eurozone, with further markets expected to launch later in 2026.",
+        "fetched_at": "2026-07-15T22:04:28.078875Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-005",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-052",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "statement": "Deel launched DLUSD stablecoin balance allowing contractors to hold, earn rewards, and spend within Deel app across 150+ countries",
+    "evidence": [
+      {
+        "source_url": "https://thedefiant.io/converge/tradfi-and-fintech/deel-deploys-stripe-stablecoin-stack-dlusd-contractors",
+        "excerpt": "Deel, the global payroll and compliance platform serving 40,000 businesses and 1.5 million workers across 150-plus countries, has tapped Stripe's full crypto-infrastructure stack to launch DLUSD, a USD-denominated stablecoin balance contractors can hold, earn rewards on, and spend without leaving the Deel app.",
+        "fetched_at": "2026-07-15T22:04:28.078905Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-006",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-053",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "statement": "Deel DLUSD product went live in Argentina on June 3 with remaining Latin America markets in coming weeks, followed by Asia-Pacific, Middle East and North Africa, and Africa",
+    "evidence": [
+      {
+        "source_url": "https://thedefiant.io/converge/tradfi-and-fintech/deel-deploys-stripe-stablecoin-stack-dlusd-contractors",
+        "excerpt": "The product went live in Argentina on June 3. Remaining Latin America markets follow in the coming weeks, with Asia-Pacific, the Middle East and North Africa, and Africa after that",
+        "fetched_at": "2026-07-15T22:04:28.078935Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-007",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-054",
+    "competitor": "deel.com",
+    "category": "icp_targeting",
+    "statement": "In 2025, 85% of contractors in Argentina told Deel they wanted to be paid in dollars rather than pesos",
+    "evidence": [
+      {
+        "source_url": "https://thedefiant.io/converge/tradfi-and-fintech/deel-deploys-stripe-stablecoin-stack-dlusd-contractors",
+        "excerpt": "In 2025, 85% of contractors in Argentina told Deel they wanted to be paid in dollars rather than pesos.",
+        "fetched_at": "2026-07-15T22:04:28.078968Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; no direct source",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "inferred",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-055",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel emphasizes flat organizational structure with autonomy to build without waiting for permission or fancy titles",
+    "evidence": [
+      {
+        "source_url": "https://deel.com/careers",
+        "excerpt": "The permission structure here is real. You don't wait for a fancy title to greenlight an idea \u2014 you build it, show it, and if it's good, it ships.",
+        "fetched_at": "2026-07-15T22:04:34.632684Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "jobs_signals"
+  },
+  {
+    "id": "CLM-056",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "statement": "Deel achieved $1B+ ARR in six years across 160+ countries",
+    "evidence": [
+      {
+        "source_url": "https://deel.com/careers",
+        "excerpt": "We went from zero to $1B+ ARR in six years across 160+ countries.",
+        "fetched_at": "2026-07-15T22:04:34.632814Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-010",
+    "source_tool": "jobs_signals"
+  },
+  {
+    "id": "CLM-057",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "statement": "Deel is trusted by 40,000+ companies from startups to enterprise",
+    "evidence": [
+      {
+        "source_url": "https://deel.com/careers",
+        "excerpt": "Trusted by **40,000+ companies** from startups to enterprise businesses",
+        "fetched_at": "2026-07-15T22:04:34.632881Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-002",
+    "source_tool": "jobs_signals"
+  },
+  {
+    "id": "CLM-058",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel operates as a work-from-anywhere company with high speed and high volume work",
+    "evidence": [
+      {
+        "source_url": "https://deel.com/careers",
+        "excerpt": "Our global footprint means we move at the pace of the world: high volume, high accountability, high speed.",
+        "fetched_at": "2026-07-15T22:04:34.632934Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "jobs_signals"
+  },
+  {
+    "id": "CLM-059",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel values action bias and builder mentality across all roles, not just R&D",
+    "evidence": [
+      {
+        "source_url": "https://deel.com/careers",
+        "excerpt": "Our bias is action. And good ideas come from everywhere at Deel \u2014 not just R&D. An ops person can ship a workflow that changes how the company runs.",
+        "fetched_at": "2026-07-15T22:04:34.632985Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "jobs_signals"
+  },
+  {
+    "id": "CLM-060",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel emphasizes default to automation for efficiency across engineering, ops, finance, and sales",
+    "evidence": [
+      {
+        "source_url": "https://deel.com/careers",
+        "excerpt": "You default to \"how could I automate this.\" Engineering, ops, finance, sales - efficiency isn't laziness. It's leverage.",
+        "fetched_at": "2026-07-15T22:04:34.633029Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "jobs_signals"
+  },
+  {
+    "id": "CLM-061",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel Payroll has a 4.7/5 star rating on G2 based on 6,837 reviews",
+    "evidence": [
+      {
+        "source_url": "g2:https://www.g2.com/products/deel/reviews",
+        "excerpt": "4.7/5(6,837)",
+        "fetched_at": "2026-07-15T22:04:38.011882Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-001",
+    "source_tool": "g2_reviews"
+  },
+  {
+    "id": "CLM-062",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel Payroll has 87% five-star reviews on G2",
+    "evidence": [
+      {
+        "source_url": "g2:https://www.g2.com/products/deel/reviews",
+        "excerpt": "5 star 87%",
+        "fetched_at": "2026-07-15T22:04:38.012012Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "g2_reviews"
+  },
+  {
+    "id": "CLM-063",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "statement": "Deel Payroll is used by Turing and 14 other companies",
+    "evidence": [
+      {
+        "source_url": "g2:https://www.g2.com/products/deel/reviews",
+        "excerpt": "Used by Turing and 14 others",
+        "fetched_at": "2026-07-15T22:04:38.012075Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "g2_reviews"
+  }
+]

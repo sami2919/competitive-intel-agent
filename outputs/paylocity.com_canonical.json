@@ -1,0 +1,252 @@
+[
+  {
+    "id": "CAN-001",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "canonical_statement": "Paylocity positions as a unified platform integrating HR, Finance, and IT in a single solution",
+    "member_claim_ids": [
+      "CLM-001",
+      "CLM-033"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://paylocity.com",
+        "excerpt": "Unified Platform for HR, Finance, and IT",
+        "fetched_at": "2026-07-28T02:26:50.988763Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "g2:https://www.g2.com/products/paylocity/reviews",
+        "excerpt": "Paylocity delivers the most innovative technology bringing HR, Finance, and IT together in one modern, easy-to-use platform",
+        "fetched_at": "2026-07-28T02:29:36.297553Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 2 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 50,
+    "winning_score_trace": "winning=50/100 (corroboration 20, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-002",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "canonical_statement": "Paylocity emphasizes AI-powered automation as a core product differentiator through Ignite AI",
+    "member_claim_ids": [
+      "CLM-002",
+      "CLM-021"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://paylocity.com",
+        "excerpt": "Meet Ignite AI. The next evolution of work is here to automate manual processes, reduce risk, and help you move faster.",
+        "fetched_at": "2026-07-28T02:26:50.988892Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "https://www.paylocity.com/company/about-us/newsroom/press-releases/paylocity-launches-ignite-ai-redefining-industry-ai-leadership/",
+        "excerpt": "Paylocity Ignite AI, its platform-wide AI with agents that automate manual work, help reduce risk, and enable teams to move faster. Embedded throughout Paylocity's platform, Ignite AI brings data, insights, and automation into moments where decisions are made and work gets done.",
+        "fetched_at": "2026-07-28T02:29:28.009955Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 2 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 50,
+    "winning_score_trace": "winning=50/100 (corroboration 20, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-003",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "canonical_statement": "Paylocity achieves high G2 ratings with thousands of reviews",
+    "member_claim_ids": [
+      "CLM-004",
+      "CLM-032"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/pricing",
+        "excerpt": "4.5 stars out of 5 ... 5,216 reviews",
+        "fetched_at": "2026-07-28T02:26:50.988961Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "g2:https://www.g2.com/products/paylocity/reviews",
+        "excerpt": "4.4/5(6,121)",
+        "fetched_at": "2026-07-28T02:29:36.297472Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 2 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 50,
+    "winning_score_trace": "winning=50/100 (corroboration 20, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-004",
+    "competitor": "paylocity.com",
+    "category": "recent_change",
+    "canonical_statement": "Paylocity acquired Aidora to automate leave management compliance processes",
+    "member_claim_ids": [
+      "CLM-010",
+      "CLM-023"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://paylocity.com",
+        "excerpt": "Paylocity Acquires AI-Native Aidora to Simplify Leave Management",
+        "fetched_at": "2026-07-28T02:26:50.989087Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "https://www.paylocity.com/company/about-us/newsroom/press-releases/paylocity-acquires-ai-native-aidora-to-simplify-leave-management/",
+        "excerpt": "Paylocity (NASDAQ: PCTY), a leading provider of HCM, Finance, and IT solutions, today announced the acquisition of Aidora, an AI-native leave management compliance software company built on a natural language interaction model that automates highly regulated leave processes.",
+        "fetched_at": "2026-07-28T02:29:28.010058Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 2 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 50,
+    "winning_score_trace": "winning=50/100 (corroboration 20, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-005",
+    "competitor": "paylocity.com",
+    "category": "icp_targeting",
+    "canonical_statement": "Paylocity targets small business, midsize, and enterprise company sizes across multiple verticals",
+    "member_claim_ids": [
+      "CLM-012",
+      "CLM-018",
+      "CLM-019",
+      "CLM-020"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://paylocity.com",
+        "excerpt": "Small Business 1-99 employees ... Midsize Business 100-499 employees ... Enterprise 500+ employees",
+        "fetched_at": "2026-07-28T02:26:50.989150Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "social:https://paylocity.com/resources",
+        "excerpt": "Back of House: People-First HR in High-Turnover Hospitality",
+        "fetched_at": "2026-07-28T02:29:15.201576Z",
+        "utm_params": null,
+        "first_seen": "2026-07-07T00:00:00Z",
+        "last_seen": "2026-07-28T02:29:15.201576Z"
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 2 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 52,
+    "winning_score_trace": "winning=52/100 (corroboration 20, persistence 2, recency 30)"
+  },
+  {
+    "id": "CAN-006",
+    "competitor": "paylocity.com",
+    "category": "recent_change",
+    "canonical_statement": "Paylocity acquired Grayscale to expand AI-powered recruiting automation for high-volume hiring",
+    "member_claim_ids": [
+      "CLM-029",
+      "CLM-030"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://investors.paylocity.com/news-releases/news-release-details/paylocity-acquires-grayscale-expand-ai-powered-recruiting",
+        "excerpt": "Paylocity (NASDAQ: PCTY), a leading provider of HCM, Finance, and IT solutions, today announced the acquisition of Grayscale Labs, Inc. (\"Grayscale\"), an AI-powered recruiting automation company that helps businesses hiring at scale move faster without compromising quality.",
+        "fetched_at": "2026-07-28T02:29:28.010181Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single source, kept at 0.5",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-007",
+    "competitor": "paylocity.com",
+    "category": "recent_change",
+    "canonical_statement": "Paylocity Elevate Solutions combines unified platform with dedicated teams for HR and payroll operations",
+    "member_claim_ids": [
+      "CLM-025",
+      "CLM-026"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/company/about-us/newsroom/press-releases/paylocity-launches-elevate-solutions-to-help-hr-and-payroll-teams/",
+        "excerpt": "Paylocity Elevate Solutions, a set of new offerings that combine Paylocity's unified platform with dedicated teams, bringing deep operational expertise to manage critical HR and payroll work on behalf of clients.",
+        "fetched_at": "2026-07-28T02:29:28.010104Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single source, kept at 0.5",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-008",
+    "competitor": "paylocity.com",
+    "category": "positioning",
+    "canonical_statement": "Paylocity anchors functionality to a single employee record enabling unified workflows across the platform",
+    "member_claim_ids": [
+      "CLM-034",
+      "CLM-035"
+    ],
+    "evidence": [
+      {
+        "source_url": "g2:https://www.g2.com/products/paylocity/reviews",
+        "excerpt": "Anchored to a single employee record, policy, limit, and approval workflows stay in lockstep as people join, move, and grow",
+        "fetched_at": "2026-07-28T02:29:36.297597Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single source, kept at 0.5",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  }
+]

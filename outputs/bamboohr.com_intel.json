@@ -1,0 +1,2306 @@
+[
+  {
+    "id": "CLM-001",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR is an AI-powered HR platform that understands the power of people",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "The only AI-powered HR platform that understands the power of people.",
+        "fetched_at": "2026-07-15T23:44:12.692641Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-015",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-002",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "statement": "BambooHR serves 30,000 businesses across all industries",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "See why 30,000 businesses love working with BambooHR\u00ae",
+        "fetched_at": "2026-07-15T23:44:12.692828Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-001",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-003",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR customers save hundreds of hours and reduce HR costs by 40%",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "BambooHR customers save hundreds of hours and reduce HR costs by 40%",
+        "fetched_at": "2026-07-15T23:44:12.692865Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-016",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-004",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "statement": "BambooHR has 150+ pre-built integrations",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "150+ pre-built integrations",
+        "fetched_at": "2026-07-15T23:44:12.692885Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-003",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-005",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR offers core modules including Payroll, Time & Benefits, Hiring & Onboarding, HR Data & Reporting, Employee Experience, Performance Management, and Compensation",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "Hiring & Onboarding, HR Data & Reporting, Payroll & Time, Benefits Administration, Employee Experience, Performance Management, Compensation",
+        "fetched_at": "2026-07-15T23:44:12.692902Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-017",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-006",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR customer data is hosted in the United States, Canada, or Ireland depending on customer location and applicable laws",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "BambooHR customer data is hosted in the United States, Canada, or Ireland, depending on the location and needs of individual customers and applicable laws.",
+        "fetched_at": "2026-07-15T23:44:12.692936Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-014",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-007",
+    "competitor": "bamboohr.com",
+    "category": "pricing",
+    "statement": "BambooHR Core plan pricing is $10 USD per employee per month",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Core: $10 USD per employee/month",
+        "fetched_at": "2026-07-15T23:44:12.692953Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-004",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-008",
+    "competitor": "bamboohr.com",
+    "category": "pricing",
+    "statement": "BambooHR Pro plan pricing is $17 USD per employee per month",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Pro: $17 USD per employee/month",
+        "fetched_at": "2026-07-15T23:44:12.692973Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-005",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-009",
+    "competitor": "bamboohr.com",
+    "category": "pricing",
+    "statement": "BambooHR Elite plan pricing is $25 USD per employee per month",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Elite: $25 USD per employee/month",
+        "fetched_at": "2026-07-15T23:44:12.692990Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-006",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-010",
+    "competitor": "bamboohr.com",
+    "category": "pricing",
+    "statement": "BambooHR offers a bundle discount of 15% when combining Payroll and Benefits Administration with any plan",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Get a 15% discount when you combine Payroll and Benefits Administration with any plan.",
+        "fetched_at": "2026-07-15T23:44:12.693008Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-007",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-011",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "statement": "BambooHR is trusted by 33,000+ companies of all sizes",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing-international/a1",
+        "excerpt": "Trusted by 33,000+ companies of all sizes",
+        "fetched_at": "2026-07-15T23:44:12.693023Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-001",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-012",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "statement": "BambooHR is trusted by 30,000+ companies in over 190+ countries",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing-international/a2",
+        "excerpt": "Trusted by 30,000+ companies in over 190+ countries",
+        "fetched_at": "2026-07-15T23:44:12.693039Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-001",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-013",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "statement": "BambooHR serves customers in over 150+ countries",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "BambooHR serves customers in over 150+ countries.",
+        "fetched_at": "2026-07-15T23:44:12.693054Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-002",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-014",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR has a 4.4 rating on G2 based on 5,000+ reviews",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "4.4 (5,000+ reviews)",
+        "fetched_at": "2026-07-15T23:44:12.693068Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-010",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-015",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR offers a one-person HR department the ability to analyze people data, hire talent, onboard employees, manage compensation, and strengthen company culture",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "Even a one-person HR department can use BambooHR to analyze people data, hire talent, onboard new employees, manage compensation, and help strengthen their company culture.",
+        "fetched_at": "2026-07-15T23:44:12.693083Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-016",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "statement": "BambooHR support team is entirely in-house",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "No, our support team is entirely in-house to ensure you receive the best service possible.",
+        "fetched_at": "2026-07-15T23:44:12.693096Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-011",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-017",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "statement": "BambooHR is not a PEO but rather an HR software solution",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "BambooHR is an HR software solution, not an outsourcing provider.",
+        "fetched_at": "2026-07-15T23:44:12.693135Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-018",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR uses a Zero Trust security model to protect customer data",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "We use a Zero Trust model to keep your data locked down at every level",
+        "fetched_at": "2026-07-15T23:44:12.693151Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-012",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-019",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR offers annual third-party SOC II security audits",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "Annual third-party SOC II security audit",
+        "fetched_at": "2026-07-15T23:44:12.693164Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-013",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-020",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR implements Defense in Depth multi-level data security",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "Defense in Depth multi-level data security",
+        "fetched_at": "2026-07-15T23:44:12.693177Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-012",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-021",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR conducts annual penetration tests",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "Annual penetration test",
+        "fetched_at": "2026-07-15T23:44:12.693191Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-013",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-022",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR supports SAML authentication",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "SAML Support",
+        "fetched_at": "2026-07-15T23:44:12.693204Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-023",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR implements a web application firewall",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "Web application firewall",
+        "fetched_at": "2026-07-15T23:44:12.693218Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-024",
+    "competitor": "bamboohr.com",
+    "category": "recent_change",
+    "statement": "BambooHR offers limited-time promotion for Elite plan with free Payroll through January 2027 on 12-month agreement",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Upgrade to Elite with a 12-month agreement and get Payroll free until January 2027!",
+        "fetched_at": "2026-07-15T23:44:12.693231Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-018",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-025",
+    "competitor": "bamboohr.com",
+    "category": "pricing",
+    "statement": "BambooHR payroll pricing structure includes per-employee-per-month fees for US employees",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "For companies with more than 25 employees, our HR software is priced on a per-employee, per-month basis.",
+        "fetched_at": "2026-07-15T23:44:12.693246Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-026",
+    "competitor": "bamboohr.com",
+    "category": "pricing",
+    "statement": "BambooHR for companies with 25 employees or fewer uses a monthly flat rate starting at $250 USD",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "For companies with 25 employees or fewer, our HR software pricing is charged at a monthly flat rate starting at $250 USD/mo.",
+        "fetched_at": "2026-07-15T23:44:12.693260Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-027",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR accepts credit cards, ACH, wire transfers, and checks for payment",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "We accept credit cards and ACH for customers paying monthly. We also accept wire transfers and checks from customers interested in annual upfront payment.",
+        "fetched_at": "2026-07-15T23:44:12.693274Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-028",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR offers automatic volume discounts based on headcount",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Volume discounts are automatically applied to all accounts based on headcount.",
+        "fetched_at": "2026-07-15T23:44:12.693287Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-008",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-029",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR offers an additional 15% discount to registered nonprofit organizations",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "We also offer an additional 15% off to registered nonprofit organizations.",
+        "fetched_at": "2026-07-15T23:44:12.693301Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-009",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-030",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "statement": "BambooHR has over 150 integration partners",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "We currently have over 150 integration partners",
+        "fetched_at": "2026-07-15T23:44:12.693314Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-003",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-031",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR Payroll implementation includes one-on-one collaboration with a dedicated payroll project manager",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "You'll collaborate one-on-one with a dedicated payroll project manager to set everything up and run your first payroll.",
+        "fetched_at": "2026-07-15T23:44:12.693327Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-032",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR Elite plan customers receive data integrity services (2 hours per year)",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Data Integrity Services (2 Hours per Year)",
+        "fetched_at": "2026-07-15T23:44:12.693340Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-033",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR Elite plan customers receive new administrator training (2 sessions per year)",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "New Administrator Training (2 Sessions per Year)",
+        "fetched_at": "2026-07-15T23:44:12.693354Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-034",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR Elite plan provides access to exclusive insider webinars",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Exclusive Insider Webinars",
+        "fetched_at": "2026-07-15T23:44:12.693367Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-035",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR positions itself as 'The Powerfully Easy HR Platform' solving people problems and growing pains",
+    "evidence": [
+      {
+        "source_url": "wayback:https://bamboohr.com/",
+        "excerpt": "The Powerfully Easy HR Platform Solving people problems and growing pains isn't just doable \u2014 it's bambooable.",
+        "fetched_at": "2026-07-15T23:45:11.212402Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "wayback_diff"
+  },
+  {
+    "id": "CLM-036",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR offers integrated HR capabilities across hiring, onboarding, data reporting, payroll, time, benefits, and employee experience",
+    "evidence": [
+      {
+        "source_url": "wayback:https://bamboohr.com/",
+        "excerpt": "Hiring & Onboarding HR Data & Reporting Payroll & Time Benefits Administration Employee Experience",
+        "fetched_at": "2026-07-15T23:45:11.212516Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-017",
+    "source_tool": "wayback_diff"
+  },
+  {
+    "id": "CLM-037",
+    "competitor": "bamboohr.com",
+    "category": "ads_paid_social",
+    "statement": "BambooHR positions itself as a solution to reduce hiring, onboarding, retention problems as headcount grows",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:bamboohr.com",
+        "excerpt": "More employees shouldn't mean more problems. BambooHR has tools to help you improve hiring, onboarding, retention, and more.",
+        "fetched_at": "2026-07-15T23:46:19.589764Z",
+        "utm_params": null,
+        "first_seen": "2026-05-25T07:00:00Z",
+        "last_seen": "2026-05-25T07:00:00Z"
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "possible_test",
+    "signal_trace": "running < 90d (0d) \u2014 new/narrow, may be an active test",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-038",
+    "competitor": "bamboohr.com",
+    "category": "ads_paid_social",
+    "statement": "BambooHR claims onboarding can be accelerated without sacrificing new hire success",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:bamboohr.com",
+        "excerpt": "Great onboarding doesn't need to take weeks. BambooHR\u00ae helps teams move faster while setting new hires up for success.",
+        "fetched_at": "2026-07-15T23:46:19.590078Z",
+        "utm_params": null,
+        "first_seen": "2026-05-04T07:00:00Z",
+        "last_seen": "2026-05-04T07:00:00Z"
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "possible_test",
+    "signal_trace": "running < 90d (0d) \u2014 new/narrow, may be an active test",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-039",
+    "competitor": "bamboohr.com",
+    "category": "ads_paid_social",
+    "statement": "BambooHR claims automated onboarding can reduce turnover by an estimated 30%",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:bamboohr.com",
+        "excerpt": "Automated onboarding can reduce turnover by an estimated 30%!",
+        "fetched_at": "2026-07-15T23:46:19.590127Z",
+        "utm_params": null,
+        "first_seen": "2023-02-21T08:00:00Z",
+        "last_seen": "2023-02-21T08:00:00Z"
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "possible_test",
+    "signal_trace": "running < 90d (0d) \u2014 new/narrow, may be an active test",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-040",
+    "competitor": "bamboohr.com",
+    "category": "ads_paid_social",
+    "statement": "BambooHR targets large organizations with claims of time, money, and momentum savings",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:bamboohr.com",
+        "excerpt": "The bigger your goals, the smarter your HR should be. BambooHR helps large organizations save time, money, and momentum.",
+        "fetched_at": "2026-07-15T23:46:19.590154Z",
+        "utm_params": null,
+        "first_seen": "2026-05-04T07:00:00Z",
+        "last_seen": "2026-05-04T07:00:00Z"
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "possible_test",
+    "signal_trace": "running < 90d (0d) \u2014 new/narrow, may be an active test",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-041",
+    "competitor": "bamboohr.com",
+    "category": "ads_paid_social",
+    "statement": "BambooHR positions HR software as improving work efficiency and budget strength",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:bamboohr.com",
+        "excerpt": "Smart HR should make work smoother and budgets stronger. See how BambooHR helps teams save money without losing quality.",
+        "fetched_at": "2026-07-15T23:46:19.590175Z",
+        "utm_params": null,
+        "first_seen": "2026-04-24T07:00:00Z",
+        "last_seen": "2026-04-24T07:00:00Z"
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "possible_test",
+    "signal_trace": "running < 90d (0d) \u2014 new/narrow, may be an active test",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-042",
+    "competitor": "bamboohr.com",
+    "category": "ads_paid_social",
+    "statement": "BambooHR positions itself as making HR easier and simpler",
+    "evidence": [
+      {
+        "source_url": "google-ads:bamboohr.com",
+        "excerpt": "HR Can Be a Breeze For Every Employee . Choose an Easier HR Platform Today with BambooHR",
+        "fetched_at": "2026-07-15T23:47:46.862569Z",
+        "utm_params": null,
+        "first_seen": "2025-05-09T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (432d) \u2014 durable creative, proxy for performance",
+    "canonical_id": null,
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-043",
+    "competitor": "bamboohr.com",
+    "category": "ads_paid_social",
+    "statement": "BambooHR offers an all-in-one HR platform combining multiple systems",
+    "evidence": [
+      {
+        "source_url": "google-ads:bamboohr.com",
+        "excerpt": "Combine All Your HR Systems Into One Platform . Time Tracking , Payroll , Benefits , and More",
+        "fetched_at": "2026-07-15T23:47:46.862818Z",
+        "utm_params": null,
+        "first_seen": "2025-02-19T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.6,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; expansion +0.1; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (511d) \u2014 durable creative, proxy for performance; expanded to multiple regions",
+    "canonical_id": null,
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-044",
+    "competitor": "bamboohr.com",
+    "category": "ads_paid_social",
+    "statement": "BambooHR claims #1 rating for HR software",
+    "evidence": [
+      {
+        "source_url": "google-ads:bamboohr.com",
+        "excerpt": "BambooHR\u00ae - # 1 Rated HR Software BambooHR is the easy - to - use platform for everything HR",
+        "fetched_at": "2026-07-15T23:47:46.862867Z",
+        "utm_params": null,
+        "first_seen": "2025-08-08T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (341d) \u2014 durable creative, proxy for performance",
+    "canonical_id": null,
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-045",
+    "competitor": "bamboohr.com",
+    "category": "ads_paid_social",
+    "statement": "BambooHR positions switching/migration as a money and time-saving angle",
+    "evidence": [
+      {
+        "source_url": "google-ads:bamboohr.com",
+        "excerpt": "Save time and money by switching . BambooHR is all - in - one HR software that saves time",
+        "fetched_at": "2026-07-15T23:47:46.862896Z",
+        "utm_params": null,
+        "first_seen": "2025-08-08T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (341d) \u2014 durable creative, proxy for performance",
+    "canonical_id": null,
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-046",
+    "competitor": "bamboohr.com",
+    "category": "ads_paid_social",
+    "statement": "BambooHR targets growing teams with its HR platform",
+    "evidence": [
+      {
+        "source_url": "google-ads:bamboohr.com",
+        "excerpt": "HR Built for Growing Teams - All Your \u2014 HR Systems In One",
+        "fetched_at": "2026-07-15T23:47:46.862918Z",
+        "utm_params": null,
+        "first_seen": "2025-08-09T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (340d) \u2014 durable creative, proxy for performance",
+    "canonical_id": null,
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-047",
+    "competitor": "bamboohr.com",
+    "category": "ads_paid_social",
+    "statement": "BambooHR offers employee time tracking and attendance management",
+    "evidence": [
+      {
+        "source_url": "google-ads:bamboohr.com",
+        "excerpt": "Streamline time & attendance tracking . Get accurate timesheets & monitor employee hours . From time clock to payroll , manage attendance effortlessly",
+        "fetched_at": "2026-07-15T23:47:46.862941Z",
+        "utm_params": null,
+        "first_seen": "2025-08-11T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.6,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; expansion +0.1; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (338d) \u2014 durable creative, proxy for performance; expanded to multiple regions",
+    "canonical_id": null,
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-048",
+    "competitor": "bamboohr.com",
+    "category": "ads_paid_social",
+    "statement": "BambooHR offers applicant tracking system (ATS) with integrations",
+    "evidence": [
+      {
+        "source_url": "google-ads:bamboohr.com",
+        "excerpt": "BambooHR\u00ae Applicant Tracking - 125+ Integrations Modern recruiting tools help you find and hire the right talent fast",
+        "fetched_at": "2026-07-15T23:47:46.862964Z",
+        "utm_params": null,
+        "first_seen": "2025-05-08T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (433d) \u2014 durable creative, proxy for performance",
+    "canonical_id": null,
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-049",
+    "competitor": "bamboohr.com",
+    "category": "ads_paid_social",
+    "statement": "BambooHR positions its HR software as freeing up time for people-focused work",
+    "evidence": [
+      {
+        "source_url": "google-ads:bamboohr.com",
+        "excerpt": "Our easy - to - use HR software frees up time for what matters most : people",
+        "fetched_at": "2026-07-15T23:47:46.862987Z",
+        "utm_params": null,
+        "first_seen": "2025-01-16T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.6,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; expansion +0.1; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (545d) \u2014 durable creative, proxy for performance; expanded to multiple regions",
+    "canonical_id": null,
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-050",
+    "competitor": "bamboohr.com",
+    "category": "ads_paid_social",
+    "statement": "BambooHR offers employee onboarding capabilities",
+    "evidence": [
+      {
+        "source_url": "google-ads:bamboohr.com",
+        "excerpt": "Employee Onboarding - HR , Payroll & Benefits",
+        "fetched_at": "2026-07-15T23:47:46.863007Z",
+        "utm_params": null,
+        "first_seen": "2025-01-16T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.6,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; expansion +0.1; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (545d) \u2014 durable creative, proxy for performance; expanded to multiple regions",
+    "canonical_id": null,
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-051",
+    "competitor": "bamboohr.com",
+    "category": "ads_paid_social",
+    "statement": "BambooHR runs video ads on its platform",
+    "evidence": [
+      {
+        "source_url": "google-ads:bamboohr.com",
+        "excerpt": "[video ad - no text available]",
+        "fetched_at": "2026-07-15T23:47:46.863075Z",
+        "utm_params": null,
+        "first_seen": "2026-04-24T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.4,
+    "confidence_trace": "inferred 0.3; expansion +0.1; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": "possible_test",
+    "signal_trace": "running < 90d (82d) \u2014 new/narrow, may be an active test; expanded to multiple regions",
+    "canonical_id": null,
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-052",
+    "competitor": "bamboohr.com",
+    "category": "social_content",
+    "statement": "BambooHR publishes HR guidance on religious AI exemptions in the workplace",
+    "evidence": [
+      {
+        "source_url": "social:https://bamboohr.com/blog",
+        "excerpt": "Navigating Religious AI Exemptions in the Workplace: What HR Needs to Know",
+        "fetched_at": "2026-07-15T23:47:52.154619Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-053",
+    "competitor": "bamboohr.com",
+    "category": "social_content",
+    "statement": "BambooHR publishes HR guidance on Washington State menopause accommodation requirements",
+    "evidence": [
+      {
+        "source_url": "social:https://bamboohr.com/blog",
+        "excerpt": "Washington State's New Order on Menopause Accommodations: What Employers Need to Know",
+        "fetched_at": "2026-07-15T23:47:52.154704Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-054",
+    "competitor": "bamboohr.com",
+    "category": "social_content",
+    "statement": "BambooHR publishes content on HR certifications",
+    "evidence": [
+      {
+        "source_url": "social:https://bamboohr.com/blog",
+        "excerpt": "Different Types of HR Certifications",
+        "fetched_at": "2026-07-15T23:47:52.154723Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-055",
+    "competitor": "bamboohr.com",
+    "category": "social_content",
+    "statement": "BambooHR publishes content on compensation management strategy",
+    "evidence": [
+      {
+        "source_url": "social:https://bamboohr.com/blog",
+        "excerpt": "Total Compensation Components You Need to Include in Your Strategy",
+        "fetched_at": "2026-07-15T23:47:52.154739Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-056",
+    "competitor": "bamboohr.com",
+    "category": "social_content",
+    "statement": "BambooHR publishes content on incentive and bonus programs",
+    "evidence": [
+      {
+        "source_url": "social:https://bamboohr.com/blog",
+        "excerpt": "6 Powerful Options for Incentive and Bonus Programs",
+        "fetched_at": "2026-07-15T23:47:52.154752Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-057",
+    "competitor": "bamboohr.com",
+    "category": "social_content",
+    "statement": "BambooHR publishes content on emotional intelligence in the workplace",
+    "evidence": [
+      {
+        "source_url": "social:https://bamboohr.com/blog",
+        "excerpt": "How to Foster Emotional Intelligence in the Workplace",
+        "fetched_at": "2026-07-15T23:47:52.154765Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-058",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR offers Employer of Record services for global hiring",
+    "evidence": [
+      {
+        "source_url": "social:https://bamboohr.com/blog",
+        "excerpt": "Hire globally, confidently\u2014with BambooHR\u00ae Employer of Record",
+        "fetched_at": "2026-07-15T23:47:52.154777Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-059",
+    "competitor": "bamboohr.com",
+    "category": "recent_change",
+    "statement": "BambooHR launches Broker Partner Program to help benefits brokers extend value to clients through modern HR technology and dedicated support",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/about-bamboohr/press-release/bamboohr-broker-partner-program",
+        "excerpt": "BambooHR Launches Broker Partner Program to Strengthen Broker-Client Relationships ... New program delivers HR technology, white-glove implementation, and a dedicated support model designed specifically for benefits brokers",
+        "fetched_at": "2026-07-15T23:48:05.683706Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-060",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "statement": "BambooHR positions itself as the leading people intelligence platform for HR, payroll, and benefits",
+    "evidence": [
+      {
+        "source_url": "https://www.globenewswire.com/news-release/2026/06/09/3308885/0/en/BambooHR-Launches-Time-Attendance-With-Shift-Scheduling.html",
+        "excerpt": "BambooHR\u00ae, the leading people intelligence platform for HR, payroll, and benefits, today announced BambooHR Time & Attendance",
+        "fetched_at": "2026-07-15T23:48:05.683864Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-061",
+    "competitor": "bamboohr.com",
+    "category": "recent_change",
+    "statement": "BambooHR launches Time & Attendance with Shift Scheduling, enabling managers to plan hours and connect planning directly to time tracking in a single platform",
+    "evidence": [
+      {
+        "source_url": "https://www.globenewswire.com/news-release/2026/06/09/3308885/0/en/BambooHR-Launches-Time-Attendance-With-Shift-Scheduling.html",
+        "excerpt": "BambooHR Time & Attendance \u2014 the evolution of BambooHR Time Tracking into a Time & Attendance solution. At the center of this launch is shift scheduling, giving managers the tools to plan how hours will be worked, by whom, and where, connecting that planning directly to time tracking and attendance in a single platform.",
+        "fetched_at": "2026-07-15T23:48:05.683894Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-062",
+    "competitor": "bamboohr.com",
+    "category": "recent_change",
+    "statement": "BambooHR launches Services offering spanning HR Consulting, Technical Services, and HR Outsourcing to help growing teams scale",
+    "evidence": [
+      {
+        "source_url": "https://www.globenewswire.com/news-release/2026/03/19/3259095/0/en/BambooHR-Launches-New-Services-Offerings-to-Help-Growing-Teams-Scale-with-Confidence.html",
+        "excerpt": "BambooHR Services, a comprehensive offering created in response to customer needs as they navigate complex HR responsibilities with greater clarity, confidence, and control ... BambooHR Services now spans three distinct offerings: HR Consulting, Technical Services, and HR Outsourcing",
+        "fetched_at": "2026-07-15T23:48:05.683935Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-063",
+    "competitor": "bamboohr.com",
+    "category": "recent_change",
+    "statement": "BambooHR announces major platform update with embedded AI, compensation benchmarking, and native apps to modernize the HR lifecycle",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/about-bamboohr/press-release/bamboohr-ai-platform",
+        "excerpt": "BambooHR\u00ae, the easiest-to-use people platform for managing HR, payroll, and benefits, today announced a major platform update featuring embedded AI, compensation benchmarking, and native apps designed to modernize the HR lifecycle.",
+        "fetched_at": "2026-07-15T23:48:05.683956Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-064",
+    "competitor": "bamboohr.com",
+    "category": "recent_change",
+    "statement": "BambooHR launches Recognition & Rewards capabilities built directly into the platform with AI-powered writing assistance and peer-to-peer recognition",
+    "evidence": [
+      {
+        "source_url": "https://www.globenewswire.com/news-release/2026/06/08/3308187/0/en/BambooHR-Launches-Recognition-Rewards-to-Help-Organizations-Build-Stronger-Workplace-Culture.html",
+        "excerpt": "BambooHR Recognition & Rewards, new capabilities built directly into BambooHR that makes employee recognition easier, smarter, and more consistent without adding another platform ... AI-powered writing assistance helps employees who aren't sure what to say find the right words",
+        "fetched_at": "2026-07-15T23:48:05.683971Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-065",
+    "competitor": "bamboohr.com",
+    "category": "recent_change",
+    "statement": "BambooHR launches On-Demand Pay powered by Clair, an embedded Earned Wage Access tool allowing employees to access earned wages instantly with no interest or credit checks",
+    "evidence": [
+      {
+        "source_url": "https://markets.businessinsider.com/news/stocks/bamboohr-and-clair-launch-fully-integrated-on-demand-pay-1036137400",
+        "excerpt": "BambooHR On-Demand Pay, powered by Clair. This embedded financial solution allows eligible employees to access earned wages instantly, providing a safety net against rising costs. Employees can access wages before payday with no interest or credit checks.",
+        "fetched_at": "2026-07-15T23:48:05.683986Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-066",
+    "competitor": "bamboohr.com",
+    "category": "pricing",
+    "statement": "BambooHR On-Demand Pay is free for all BambooHR customers with zero employer liability or funding requirements",
+    "evidence": [
+      {
+        "source_url": "https://markets.businessinsider.com/news/stocks/bamboohr-and-clair-launch-fully-integrated-on-demand-pay-1036137400",
+        "excerpt": "Cost to Employer: $0 (Free for all BambooHR customers) ... Zero Employer Liability: The solution is free for all BambooHR packages. There are no funding requirements or impacts on company cash flow.",
+        "fetched_at": "2026-07-15T23:48:05.684002Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-067",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR's mission is to set people free to do great work",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com/careers",
+        "excerpt": "Our mission is to set people free to do great work, and that includes everybody\u2014ourselves, our teams, and our customers!",
+        "fetched_at": "2026-07-15T23:48:10.371442Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "jobs_signals"
+  },
+  {
+    "id": "CLM-068",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "statement": "BambooHR's vision is to become the #1 HR platform for businesses of all sizes around the world",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com/careers",
+        "excerpt": "Our vision is to become the #1 HR platform for businesses of all sizes around the world.",
+        "fetched_at": "2026-07-15T23:48:10.371530Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "jobs_signals"
+  },
+  {
+    "id": "CLM-069",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR was founded in 2008 with the goal of building a great place to work and creating innovative HR tools",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com/careers",
+        "excerpt": "Founded in 2008, BambooHR started with the goal of building a great place to work and creating innovative HR tools to help every business do the same.",
+        "fetched_at": "2026-07-15T23:48:10.371550Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "jobs_signals"
+  },
+  {
+    "id": "CLM-070",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR emphasizes an inclusive work environment where every individual is safe to contribute their unique talents and perspectives",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com/careers",
+        "excerpt": "We believe in fostering a workplace where every individual is safe to contribute their unique talents and perspectives to our collective success.",
+        "fetched_at": "2026-07-15T23:48:10.371566Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "jobs_signals"
+  },
+  {
+    "id": "CLM-071",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR has an award-winning culture",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com/careers",
+        "excerpt": "We've carefully crafted an award-winning culture and environment where they can thrive and engage.",
+        "fetched_at": "2026-07-15T23:48:10.371580Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "jobs_signals"
+  },
+  {
+    "id": "CLM-072",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "statement": "BambooHR describes itself as a product-driven company where every role plays a vital part in creating innovative solutions",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com/careers",
+        "excerpt": "We all lead, learn, and help each other grow, so we can be better and create more impactful products. Every role plays a vital part in creating unique, innovative solutions.",
+        "fetched_at": "2026-07-15T23:48:10.371594Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "jobs_signals"
+  },
+  {
+    "id": "CLM-073",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR has a 4.4 out of 5 star rating on G2 based on 5,715 reviews",
+    "evidence": [
+      {
+        "source_url": "g2:https://www.g2.com/products/bamboohr/reviews",
+        "excerpt": "4.4/5(5,715)",
+        "fetched_at": "2026-07-15T23:48:13.868454Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-010",
+    "source_tool": "g2_reviews"
+  },
+  {
+    "id": "CLM-074",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "67% of BambooHR reviews on G2 are 5-star ratings",
+    "evidence": [
+      {
+        "source_url": "g2:https://www.g2.com/products/bamboohr/reviews",
+        "excerpt": "5 star 67%",
+        "fetched_at": "2026-07-15T23:48:13.868542Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "g2_reviews"
+  },
+  {
+    "id": "CLM-075",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR is used by Kyriba and 14 other featured companies",
+    "evidence": [
+      {
+        "source_url": "g2:https://www.g2.com/products/bamboohr/reviews",
+        "excerpt": "Used by Kyriba and 14 others",
+        "fetched_at": "2026-07-15T23:48:13.868561Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "g2_reviews"
+  },
+  {
+    "id": "CLM-076",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR is an AI-powered HR platform for managing all HR tasks in one place",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "The HR Platform Built for Brilliant Work. Solve, grow and thrive with the only AI-powered HR platform that understands the power of people.",
+        "fetched_at": "2026-07-15T23:48:41.590311Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-015",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-077",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "statement": "BambooHR is used by 30,000 businesses",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "See why 30,000 businesses love working with BambooHR",
+        "fetched_at": "2026-07-15T23:48:41.590435Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-001",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-078",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR offers a centralized platform combining payroll, time, and benefits management with no data double entry",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "Track hours and manage multi-rate pay, simplify time off requests, streamline benefits enrollment, and run payroll all from a single platform. No more data double entry or manual approval processes\u2014just easy, accurate payroll for you and your employees.",
+        "fetched_at": "2026-07-15T23:48:41.590469Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-079",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "statement": "BambooHR customers reduce HR costs by 40%",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "BambooHR customers save hundreds of hours and reduce HR costs by 40%",
+        "fetched_at": "2026-07-15T23:48:41.590487Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-016",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-080",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR support team is entirely in-house",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "Is your support team outsourced? No, our support team is entirely in-house to ensure you receive the best service possible.",
+        "fetched_at": "2026-07-15T23:48:41.590503Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-011",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-081",
+    "competitor": "bamboohr.com",
+    "category": "pricing",
+    "statement": "BambooHR Core plan pricing starts at $10 USD per employee per month",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Core $10 USD per employee/month",
+        "fetched_at": "2026-07-15T23:48:41.590519Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-004",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-082",
+    "competitor": "bamboohr.com",
+    "category": "pricing",
+    "statement": "BambooHR Pro plan pricing is $17 USD per employee per month",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Pro $17 USD per employee/month",
+        "fetched_at": "2026-07-15T23:48:41.590536Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-005",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-083",
+    "competitor": "bamboohr.com",
+    "category": "pricing",
+    "statement": "BambooHR Elite plan pricing is $25 USD per employee per month",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Elite $25 USD per employee/month",
+        "fetched_at": "2026-07-15T23:48:41.590552Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-006",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-084",
+    "competitor": "bamboohr.com",
+    "category": "pricing",
+    "statement": "BambooHR offers automatic volume discounts based on employee headcount",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Volume discounts are automatically applied to all accounts based on headcount. Your discount will increase as your headcount increases\u2014no need to request it or negotiate new pricing.",
+        "fetched_at": "2026-07-15T23:48:41.590567Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-008",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-085",
+    "competitor": "bamboohr.com",
+    "category": "pricing",
+    "statement": "BambooHR offers a 15% bundle discount when combining Payroll and Benefits Administration",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Bundle & Save! Get a 15% discount when you combine Payroll and Benefits Administration with any plan.",
+        "fetched_at": "2026-07-15T23:48:41.590588Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-007",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-086",
+    "competitor": "bamboohr.com",
+    "category": "pricing",
+    "statement": "BambooHR offers 15% discount to registered nonprofit organizations",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "We also offer an additional 15% off to registered nonprofit organizations.",
+        "fetched_at": "2026-07-15T23:48:41.590602Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-009",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-087",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "statement": "BambooHR has over 150 integration partners",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "We currently have over 150 integration partners, and we're always developing new ways to help customers in every industry build their own perfect, seamless solution.",
+        "fetched_at": "2026-07-15T23:48:41.590615Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-003",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-088",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "statement": "BambooHR serves customers in over 150 countries",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "BambooHR serves customers in over 150+ countries.",
+        "fetched_at": "2026-07-15T23:48:41.590629Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-002",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-089",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR customer data is hosted in the United States, Canada, or Ireland",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "BambooHR customer data is hosted in the United States, Canada, or Ireland, depending on the location and needs of individual customers and applicable laws.",
+        "fetched_at": "2026-07-15T23:48:41.590643Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-014",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-090",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR uses Zero Trust security model with Defense in Depth multi-level data security",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "We use a Zero Trust model to keep your data locked down at every level. Here are just some of the measures we take to prevent data leaks and unauthorized data access: Defense in Depth multi-level data security",
+        "fetched_at": "2026-07-15T23:48:41.590663Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-012",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-091",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "statement": "BambooHR has a 4.4 rating on G2 with 5,000+ reviews",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "4.4 (5,000+ reviews)",
+        "fetched_at": "2026-07-15T23:48:41.590677Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-010",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-092",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR Compensation Management helps simplify pay process from benchmarking to planning and approvals",
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "Simplify your entire pay process\u2014from benchmarking to planning and approvals\u2014with BambooHR Compensation Management.",
+        "fetched_at": "2026-07-15T23:48:41.590696Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-093",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR Core plan has 5 job openings for hiring",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Job Openings | 5",
+        "fetched_at": "2026-07-15T23:48:41.590710Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-094",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR Pro plan has 25 job openings for hiring",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Job Openings | 25",
+        "fetched_at": "2026-07-15T23:48:41.590726Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-095",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "statement": "BambooHR Elite plan has 50 job openings for hiring",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Job Openings | 50",
+        "fetched_at": "2026-07-15T23:48:41.590740Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-096",
+    "competitor": "bamboohr.com",
+    "category": "recent_change",
+    "statement": "BambooHR offers limited-time offer of free Payroll until January 2027 with 12-month agreement on Elite plan",
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Limited-Time Offer: Upgrade to Elite with a 12-month agreement and get Payroll free until January 2027!",
+        "fetched_at": "2026-07-15T23:48:41.590753Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v2",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-018",
+    "source_tool": "crawl_site"
+  }
+]

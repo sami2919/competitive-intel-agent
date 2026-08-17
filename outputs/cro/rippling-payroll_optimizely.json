@@ -1,0 +1,29 @@
+{
+  "page_url": "https://www.rippling.com/payroll",
+  "experiment_name": "CRO \u2014 payroll",
+  "variations": [
+    {
+      "name": "control",
+      "weight": 50,
+      "changes": []
+    },
+    {
+      "name": "VAR-002",
+      "weight": 50,
+      "changes": [
+        {
+          "selector": "subhead",
+          "value": "Gusto's simplicity targets solopreneurs and S-corp owners \u2014 built for where you started, not where you're headed."
+        }
+      ],
+      "metadata": {
+        "hypothesis_id": "HYP-001",
+        "claim_refs": [
+          "CAN-007",
+          "CAN-002"
+        ],
+        "cro_score": 62
+      }
+    }
+  ]
+}

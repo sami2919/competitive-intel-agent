@@ -1,0 +1,515 @@
+[
+  {
+    "id": "CAN-001",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "canonical_statement": "BambooHR is trusted by 30,000-33,000+ companies of all sizes",
+    "member_claim_ids": [
+      "CLM-002",
+      "CLM-011",
+      "CLM-012",
+      "CLM-077"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "See why 30,000 businesses love working with BambooHR\u00ae",
+        "fetched_at": "2026-07-15T23:44:12.692828Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "https://www.bamboohr.com/pricing-international/a1",
+        "excerpt": "Trusted by 33,000+ companies of all sizes",
+        "fetched_at": "2026-07-15T23:44:12.693023Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "https://www.bamboohr.com/pricing-international/a2",
+        "excerpt": "Trusted by 30,000+ companies in over 190+ countries",
+        "fetched_at": "2026-07-15T23:44:12.693039Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (3 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 3 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 60,
+    "winning_score_trace": "winning=60/100 (corroboration 30, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-002",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "canonical_statement": "BambooHR serves customers in over 150+ countries",
+    "member_claim_ids": [
+      "CLM-013",
+      "CLM-088"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "BambooHR serves customers in over 150+ countries.",
+        "fetched_at": "2026-07-15T23:44:12.693054Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single source, kept at 0.7",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-003",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "canonical_statement": "BambooHR has 150+ pre-built integrations or integration partners",
+    "member_claim_ids": [
+      "CLM-004",
+      "CLM-030",
+      "CLM-087"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "150+ pre-built integrations",
+        "fetched_at": "2026-07-15T23:44:12.692885Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "We currently have over 150 integration partners",
+        "fetched_at": "2026-07-15T23:44:12.693314Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 2 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 50,
+    "winning_score_trace": "winning=50/100 (corroboration 20, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-004",
+    "competitor": "bamboohr.com",
+    "category": "pricing",
+    "canonical_statement": "BambooHR Core plan pricing is $10 USD per employee per month",
+    "member_claim_ids": [
+      "CLM-007",
+      "CLM-081"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Core: $10 USD per employee/month",
+        "fetched_at": "2026-07-15T23:44:12.692953Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single source, kept at 0.7",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-005",
+    "competitor": "bamboohr.com",
+    "category": "pricing",
+    "canonical_statement": "BambooHR Pro plan pricing is $17 USD per employee per month",
+    "member_claim_ids": [
+      "CLM-008",
+      "CLM-082"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Pro: $17 USD per employee/month",
+        "fetched_at": "2026-07-15T23:44:12.692973Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single source, kept at 0.7",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-006",
+    "competitor": "bamboohr.com",
+    "category": "pricing",
+    "canonical_statement": "BambooHR Elite plan pricing is $25 USD per employee per month",
+    "member_claim_ids": [
+      "CLM-009",
+      "CLM-083"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Elite: $25 USD per employee/month",
+        "fetched_at": "2026-07-15T23:44:12.692990Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single source, kept at 0.7",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-007",
+    "competitor": "bamboohr.com",
+    "category": "pricing",
+    "canonical_statement": "BambooHR offers a 15% bundle discount when combining Payroll and Benefits Administration with any plan",
+    "member_claim_ids": [
+      "CLM-010",
+      "CLM-085"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Get a 15% discount when you combine Payroll and Benefits Administration with any plan.",
+        "fetched_at": "2026-07-15T23:44:12.693008Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single source, kept at 0.7",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-008",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "canonical_statement": "BambooHR offers automatic volume discounts based on employee headcount",
+    "member_claim_ids": [
+      "CLM-028",
+      "CLM-084"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Volume discounts are automatically applied to all accounts based on headcount.",
+        "fetched_at": "2026-07-15T23:44:12.693287Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single source, kept at 0.7",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-009",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "canonical_statement": "BambooHR offers 15% discount to registered nonprofit organizations",
+    "member_claim_ids": [
+      "CLM-029",
+      "CLM-086"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "We also offer an additional 15% off to registered nonprofit organizations.",
+        "fetched_at": "2026-07-15T23:44:12.693301Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single source, kept at 0.7",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-010",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "canonical_statement": "BambooHR has a 4.4 rating on G2 based on 5,000+ reviews",
+    "member_claim_ids": [
+      "CLM-014",
+      "CLM-073",
+      "CLM-091"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "4.4 (5,000+ reviews)",
+        "fetched_at": "2026-07-15T23:44:12.693068Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "g2:https://www.g2.com/products/bamboohr/reviews",
+        "excerpt": "4.4/5(5,715)",
+        "fetched_at": "2026-07-15T23:48:13.868454Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 2 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 50,
+    "winning_score_trace": "winning=50/100 (corroboration 20, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-011",
+    "competitor": "bamboohr.com",
+    "category": "positioning",
+    "canonical_statement": "BambooHR support team is entirely in-house",
+    "member_claim_ids": [
+      "CLM-016",
+      "CLM-080"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "No, our support team is entirely in-house to ensure you receive the best service possible.",
+        "fetched_at": "2026-07-15T23:44:12.693096Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single source, kept at 0.7",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-012",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "canonical_statement": "BambooHR implements Zero Trust security model with Defense in Depth multi-level data security",
+    "member_claim_ids": [
+      "CLM-018",
+      "CLM-020",
+      "CLM-090"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "We use a Zero Trust model to keep your data locked down at every level",
+        "fetched_at": "2026-07-15T23:44:12.693151Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single source, kept at 0.7",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-013",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "canonical_statement": "BambooHR offers annual third-party SOC II security audits and conducts annual penetration tests",
+    "member_claim_ids": [
+      "CLM-019",
+      "CLM-021"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "Annual third-party SOC II security audit",
+        "fetched_at": "2026-07-15T23:44:12.693164Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single source, kept at 0.7",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-014",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "canonical_statement": "BambooHR customer data is hosted in the United States, Canada, or Ireland",
+    "member_claim_ids": [
+      "CLM-006",
+      "CLM-089"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "BambooHR customer data is hosted in the United States, Canada, or Ireland, depending on the location and needs of individual customers and applicable laws.",
+        "fetched_at": "2026-07-15T23:44:12.692936Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single source, kept at 0.7",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-015",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "canonical_statement": "BambooHR is an AI-powered HR platform for managing HR tasks in one place",
+    "member_claim_ids": [
+      "CLM-001",
+      "CLM-076"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "The only AI-powered HR platform that understands the power of people.",
+        "fetched_at": "2026-07-15T23:44:12.692641Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single source, kept at 0.7",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-016",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "canonical_statement": "BambooHR customers save hundreds of hours and reduce HR costs by 40%",
+    "member_claim_ids": [
+      "CLM-003",
+      "CLM-079"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "BambooHR customers save hundreds of hours and reduce HR costs by 40%",
+        "fetched_at": "2026-07-15T23:44:12.692865Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single source, kept at 0.7",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-017",
+    "competitor": "bamboohr.com",
+    "category": "messaging",
+    "canonical_statement": "BambooHR offers core modules including Payroll, Time & Benefits, Hiring & Onboarding, HR Data & Reporting, Employee Experience, Performance Management, and Compensation",
+    "member_claim_ids": [
+      "CLM-005",
+      "CLM-036"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://bamboohr.com",
+        "excerpt": "Hiring & Onboarding, HR Data & Reporting, Payroll & Time, Benefits Administration, Employee Experience, Performance Management, Compensation",
+        "fetched_at": "2026-07-15T23:44:12.692902Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "wayback:https://bamboohr.com/",
+        "excerpt": "Hiring & Onboarding HR Data & Reporting Payroll & Time Benefits Administration Employee Experience",
+        "fetched_at": "2026-07-15T23:45:11.212516Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 2 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 50,
+    "winning_score_trace": "winning=50/100 (corroboration 20, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-018",
+    "competitor": "bamboohr.com",
+    "category": "recent_change",
+    "canonical_statement": "BambooHR offers limited-time promotion for Elite plan with free Payroll through January 2027 on 12-month agreement",
+    "member_claim_ids": [
+      "CLM-024",
+      "CLM-096"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.bamboohr.com/pricing",
+        "excerpt": "Upgrade to Elite with a 12-month agreement and get Payroll free until January 2027!",
+        "fetched_at": "2026-07-15T23:44:12.693231Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single source, kept at 0.7",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  }
+]

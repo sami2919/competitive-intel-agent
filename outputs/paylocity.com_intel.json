@@ -1,0 +1,890 @@
+[
+  {
+    "id": "CLM-001",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "statement": "Paylocity positions as a unified platform covering HR, Finance, and IT in a single solution",
+    "evidence": [
+      {
+        "source_url": "https://paylocity.com",
+        "excerpt": "Unified Platform for HR, Finance, and IT",
+        "fetched_at": "2026-07-28T02:26:50.988763Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-001",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-002",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "statement": "Paylocity emphasizes AI-powered automation as a core product differentiator (Ignite AI)",
+    "evidence": [
+      {
+        "source_url": "https://paylocity.com",
+        "excerpt": "Meet Ignite AI. The next evolution of work is here to automate manual processes, reduce risk, and help you move faster.",
+        "fetched_at": "2026-07-28T02:26:50.988892Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-002",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-003",
+    "competitor": "paylocity.com",
+    "category": "pricing",
+    "statement": "Paylocity offers customizable pricing based on company size, selected products, and support needs",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/pricing",
+        "excerpt": "Custom pricing based on company size, selected products, and support needs.",
+        "fetched_at": "2026-07-28T02:26:50.988933Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-004",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "statement": "Paylocity achieves a 4.5 star rating on G2 with 5,216 reviews",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/pricing",
+        "excerpt": "4.5 stars out of 5 ... 5,216 reviews",
+        "fetched_at": "2026-07-28T02:26:50.988961Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-003",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-005",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "statement": "Paylocity positions expense management automation with AI-powered, touchless invoice capture and processing",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/resources/learn/articles/expense-management-automation",
+        "excerpt": "AI-based touchless invoice capture and coding ... Automated 2-way and 3-way PO matching",
+        "fetched_at": "2026-07-28T02:26:50.988984Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-006",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "statement": "Paylocity emphasizes real-time expense visibility and policy enforcement in Finance module",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/resources/learn/articles/expense-management-automation",
+        "excerpt": "Real-time visibility into payables and vendor data ... Ensure policy compliance with warning and blocking policies",
+        "fetched_at": "2026-07-28T02:26:50.989006Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-007",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "statement": "Paylocity positions headcount planning as integrated with real-time payroll and position data",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/pricing",
+        "excerpt": "Leverage real-time payroll and position data for accurate planning",
+        "fetched_at": "2026-07-28T02:26:50.989026Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-008",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "statement": "Paylocity emphasizes IT access management with automated provisioning tied directly to HR data",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/pricing",
+        "excerpt": "Sync HR and IT directories to maintain secure access across all teams. Automate software provisioning by role or department.",
+        "fetched_at": "2026-07-28T02:26:50.989049Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-009",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "statement": "Paylocity positions asset management with integrated CDW storefront for hardware restocking",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/pricing",
+        "excerpt": "Restock hardware easily with an integrated CDW storefront",
+        "fetched_at": "2026-07-28T02:26:50.989069Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-010",
+    "competitor": "paylocity.com",
+    "category": "recent_change",
+    "statement": "Paylocity acquired AI-native Aidora to simplify leave management",
+    "evidence": [
+      {
+        "source_url": "https://paylocity.com",
+        "excerpt": "Paylocity Acquires AI-Native Aidora to Simplify Leave Management",
+        "fetched_at": "2026-07-28T02:26:50.989087Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-004",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-011",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "statement": "Paylocity supports global payroll processing across 100+ countries",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/pricing",
+        "excerpt": "Global payroll support for 100+ countries",
+        "fetched_at": "2026-07-28T02:26:50.989108Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-012",
+    "competitor": "paylocity.com",
+    "category": "icp_targeting",
+    "statement": "Paylocity targets small business, midsize, and enterprise company sizes",
+    "evidence": [
+      {
+        "source_url": "https://paylocity.com",
+        "excerpt": "Small Business 1-99 employees ... Midsize Business 100-499 employees ... Enterprise 500+ employees",
+        "fetched_at": "2026-07-28T02:26:50.989150Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; no direct source",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "inferred",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-005",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-013",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "statement": "Paylocity's Employee Experience Platform includes social collaboration, peer recognition, and sentiment analysis",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/pricing",
+        "excerpt": "Social collaboration hub with chat and file sharing ... Peer recognition functionality with leaderboard features ... Employee surveys with text-based sentiment analysis",
+        "fetched_at": "2026-07-28T02:26:50.989170Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-014",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "statement": "Paylocity Finance module includes corporate card functionality with policy controls and automatic reconciliation",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/pricing",
+        "excerpt": "Virtual and physical cards with built-in policy controls ... Automatic card reconciliation and receipt capture",
+        "fetched_at": "2026-07-28T02:26:50.989192Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-015",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "statement": "Paylocity positions automation and integration as transformation levers for recruitment workflows",
+    "evidence": [
+      {
+        "source_url": "social:https://paylocity.com/resources",
+        "excerpt": "Lean hiring: How automation and integration transform recruitment workflows",
+        "fetched_at": "2026-07-28T02:29:15.200306Z",
+        "utm_params": null,
+        "first_seen": "2026-06-23T00:00:00Z",
+        "last_seen": "2026-07-28T02:29:15.200306Z"
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-016",
+    "competitor": "paylocity.com",
+    "category": "icp_targeting",
+    "statement": "Paylocity targets high-volume hiring as a use case",
+    "evidence": [
+      {
+        "source_url": "social:https://paylocity.com/resources",
+        "excerpt": "Overview of High-Volume Hiring for Employers",
+        "fetched_at": "2026-07-28T02:29:15.201521Z",
+        "utm_params": null,
+        "first_seen": "2026-07-21T00:00:00Z",
+        "last_seen": "2026-07-28T02:29:15.201521Z"
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; no direct source",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "inferred",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-017",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "statement": "Paylocity addresses HR compliance and regulatory guidance as a content pillar",
+    "evidence": [
+      {
+        "source_url": "social:https://paylocity.com/resources",
+        "excerpt": "Master HR Compliance at Any Business Size",
+        "fetched_at": "2026-07-28T02:29:15.201554Z",
+        "utm_params": null,
+        "first_seen": "2026-06-30T00:00:00Z",
+        "last_seen": "2026-07-28T02:29:15.201554Z"
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-018",
+    "competitor": "paylocity.com",
+    "category": "icp_targeting",
+    "statement": "Paylocity targets hospitality/high-turnover industries with people-first HR positioning",
+    "evidence": [
+      {
+        "source_url": "social:https://paylocity.com/resources",
+        "excerpt": "Back of House: People-First HR in High-Turnover Hospitality",
+        "fetched_at": "2026-07-28T02:29:15.201576Z",
+        "utm_params": null,
+        "first_seen": "2026-07-07T00:00:00Z",
+        "last_seen": "2026-07-28T02:29:15.201576Z"
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; no direct source",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "inferred",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-005",
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-019",
+    "competitor": "paylocity.com",
+    "category": "icp_targeting",
+    "statement": "Paylocity targets financial services workforce management as a vertical",
+    "evidence": [
+      {
+        "source_url": "social:https://paylocity.com/resources",
+        "excerpt": "Workforce management in financial services",
+        "fetched_at": "2026-07-28T02:29:15.201595Z",
+        "utm_params": null,
+        "first_seen": "2026-06-12T00:00:00Z",
+        "last_seen": "2026-07-28T02:29:15.201595Z"
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; no direct source",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "inferred",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-005",
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-020",
+    "competitor": "paylocity.com",
+    "category": "icp_targeting",
+    "statement": "Paylocity targets manufacturing industry HR challenges",
+    "evidence": [
+      {
+        "source_url": "social:https://paylocity.com/resources",
+        "excerpt": "5 HR Challenges in the Manufacturing Industry Leaders Can't Ignore",
+        "fetched_at": "2026-07-28T02:29:15.201614Z",
+        "utm_params": null,
+        "first_seen": "2026-07-21T00:00:00Z",
+        "last_seen": "2026-07-28T02:29:15.201614Z"
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; no direct source",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "inferred",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-005",
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-021",
+    "competitor": "paylocity.com",
+    "category": "recent_change",
+    "statement": "Paylocity Launches Ignite AI with platform-wide agents that automate manual work across HR, Finance, and IT",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/company/about-us/newsroom/press-releases/paylocity-launches-ignite-ai-redefining-industry-ai-leadership/",
+        "excerpt": "Paylocity Ignite AI, its platform-wide AI with agents that automate manual work, help reduce risk, and enable teams to move faster. Embedded throughout Paylocity's platform, Ignite AI brings data, insights, and automation into moments where decisions are made and work gets done.",
+        "fetched_at": "2026-07-28T02:29:28.009955Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-002",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-022",
+    "competitor": "paylocity.com",
+    "category": "recent_change",
+    "statement": "Paylocity Ignite AI includes a centralized dashboard for managing and measuring AI adoption across organizations",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/company/about-us/newsroom/press-releases/paylocity-launches-ignite-ai-redefining-industry-ai-leadership/",
+        "excerpt": "Paylocity is introducing the Ignite AI Hub, a centralized dashboard for managing and measuring AI across the organization.",
+        "fetched_at": "2026-07-28T02:29:28.010030Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-023",
+    "competitor": "paylocity.com",
+    "category": "recent_change",
+    "statement": "Paylocity acquires Aidora to automate leave management compliance processes",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/company/about-us/newsroom/press-releases/paylocity-acquires-ai-native-aidora-to-simplify-leave-management/",
+        "excerpt": "Paylocity (NASDAQ: PCTY), a leading provider of HCM, Finance, and IT solutions, today announced the acquisition of Aidora, an AI-native leave management compliance software company built on a natural language interaction model that automates highly regulated leave processes.",
+        "fetched_at": "2026-07-28T02:29:28.010058Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-004",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-024",
+    "competitor": "paylocity.com",
+    "category": "positioning",
+    "statement": "Paylocity positions Aidora as automating manual leave processes for mid-market and enterprise employers with complex leave requirements",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/company/about-us/newsroom/press-releases/paylocity-acquires-ai-native-aidora-to-simplify-leave-management/",
+        "excerpt": "It also extends Paylocity's value across its customer base\u2014with particular impact for mid-market and enterprise employers navigating the most complex leave requirements.",
+        "fetched_at": "2026-07-28T02:29:28.010081Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-025",
+    "competitor": "paylocity.com",
+    "category": "recent_change",
+    "statement": "Paylocity Elevate Solutions combines unified platform with dedicated teams for HR and payroll operations to reduce administrative burden",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/company/about-us/newsroom/press-releases/paylocity-launches-elevate-solutions-to-help-hr-and-payroll-teams/",
+        "excerpt": "Paylocity Elevate Solutions, a set of new offerings that combine Paylocity's unified platform with dedicated teams, bringing deep operational expertise to manage critical HR and payroll work on behalf of clients.",
+        "fetched_at": "2026-07-28T02:29:28.010104Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-007",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-026",
+    "competitor": "paylocity.com",
+    "category": "recent_change",
+    "statement": "Paylocity Elevate Solutions includes implementation, payroll administration, and HR operational support services",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/company/about-us/newsroom/press-releases/paylocity-launches-elevate-solutions-to-help-hr-and-payroll-teams/",
+        "excerpt": "Elevate Solutions delivers expert-led execution across implementation and ongoing payroll and HR operations: Elevate Implementation, Elevate Payroll, and Elevate HR.",
+        "fetched_at": "2026-07-28T02:29:28.010124Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-007",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-027",
+    "competitor": "paylocity.com",
+    "category": "recent_change",
+    "statement": "Paylocity launches Paylocity Retirement embedding Vestwell's retirement technology into the HCM suite",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/company/about-us/newsroom/press-releases/paylocity-connects-retirement-payroll-and-hr-in-one-experience/",
+        "excerpt": "Paylocity Retirement embeds Vestwell's retirement technology seamlessly into the Paylocity platform, combining Vestwell's industry-leading retirement administration technology with the same Paylocity platform employers already use for payroll and HR.",
+        "fetched_at": "2026-07-28T02:29:28.010144Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-028",
+    "competitor": "paylocity.com",
+    "category": "positioning",
+    "statement": "Paylocity positions Paylocity Retirement as reducing manual processes and simplifying retirement savings management for employees",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/company/about-us/newsroom/press-releases/paylocity-connects-retirement-payroll-and-hr-in-one-experience/",
+        "excerpt": "The result is a more streamlined experience for administrators, fewer manual processes, and a simpler way for employees to view and manage their retirement savings.",
+        "fetched_at": "2026-07-28T02:29:28.010163Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-029",
+    "competitor": "paylocity.com",
+    "category": "recent_change",
+    "statement": "Paylocity acquires Grayscale to expand AI-powered recruiting automation for high-volume hiring",
+    "evidence": [
+      {
+        "source_url": "https://investors.paylocity.com/news-releases/news-release-details/paylocity-acquires-grayscale-expand-ai-powered-recruiting",
+        "excerpt": "Paylocity (NASDAQ: PCTY), a leading provider of HCM, Finance, and IT solutions, today announced the acquisition of Grayscale Labs, Inc. (\"Grayscale\"), an AI-powered recruiting automation company that helps businesses hiring at scale move faster without compromising quality.",
+        "fetched_at": "2026-07-28T02:29:28.010181Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-006",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-030",
+    "competitor": "paylocity.com",
+    "category": "positioning",
+    "statement": "Paylocity positions Grayscale as enabling faster candidate engagement and response in high-volume, high-turnover hiring workflows",
+    "evidence": [
+      {
+        "source_url": "https://investors.paylocity.com/news-releases/news-release-details/paylocity-acquires-grayscale-expand-ai-powered-recruiting",
+        "excerpt": "Grayscale expands Paylocity's recruiting capabilities with AI-powered recruiting automation that helps employers engage candidates earlier and move faster through time-sensitive hiring workflows\u2014while keeping hiring decisions firmly in the hands of recruiters and hiring managers.",
+        "fetched_at": "2026-07-28T02:29:28.010199Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-006",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-031",
+    "competitor": "paylocity.com",
+    "category": "positioning",
+    "statement": "Paylocity serves approximately 42,000 payroll and HCM clients",
+    "evidence": [
+      {
+        "source_url": "https://www.paylocity.com/company/about-us/newsroom/press-releases/paylocity-launches-elevate-solutions-to-help-hr-and-payroll-teams/",
+        "excerpt": "We're excited to bring our experience serving roughly 42,000 payroll and HCM clients on our platform through every stage of growth to an even higher level of partnership.",
+        "fetched_at": "2026-07-28T02:29:28.010216Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-032",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "statement": "Paylocity achieves 4.4/5 star rating on G2 with 6,121 reviews",
+    "evidence": [
+      {
+        "source_url": "g2:https://www.g2.com/products/paylocity/reviews",
+        "excerpt": "4.4/5(6,121)",
+        "fetched_at": "2026-07-28T02:29:36.297472Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-003",
+    "source_tool": "g2_reviews"
+  },
+  {
+    "id": "CLM-033",
+    "competitor": "paylocity.com",
+    "category": "positioning",
+    "statement": "Paylocity positions as an all-in-one platform integrating HR, Finance, and IT",
+    "evidence": [
+      {
+        "source_url": "g2:https://www.g2.com/products/paylocity/reviews",
+        "excerpt": "Paylocity delivers the most innovative technology bringing HR, Finance, and IT together in one modern, easy-to-use platform",
+        "fetched_at": "2026-07-28T02:29:36.297553Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-001",
+    "source_tool": "g2_reviews"
+  },
+  {
+    "id": "CLM-034",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "statement": "Paylocity covers payroll, benefits, talent, workforce management, expenses, accounts payable, corporate cards, and procurement",
+    "evidence": [
+      {
+        "source_url": "g2:https://www.g2.com/products/paylocity/reviews",
+        "excerpt": "Run payroll, benefits, talent and workforce management while also managing all non-payroll spend including expenses, accounts payable, corporate cards, procurement, and headcount planning",
+        "fetched_at": "2026-07-28T02:29:36.297578Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-008",
+    "source_tool": "g2_reviews"
+  },
+  {
+    "id": "CLM-035",
+    "competitor": "paylocity.com",
+    "category": "positioning",
+    "statement": "Paylocity anchors functionality to a single employee record with unified workflows",
+    "evidence": [
+      {
+        "source_url": "g2:https://www.g2.com/products/paylocity/reviews",
+        "excerpt": "Anchored to a single employee record, policy, limit, and approval workflows stay in lockstep as people join, move, and grow",
+        "fetched_at": "2026-07-28T02:29:36.297597Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-008",
+    "source_tool": "g2_reviews"
+  },
+  {
+    "id": "CLM-036",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "statement": "Paylocity users cite ease of use and intuitive interface as top strengths (1347 mentions of ease, 562 of intuitive)",
+    "evidence": [
+      {
+        "source_url": "g2:https://www.g2.com/products/paylocity/reviews",
+        "excerpt": "Ease of Use (1347)...Intuitive (562)",
+        "fetched_at": "2026-07-28T02:29:36.297615Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "g2_reviews"
+  },
+  {
+    "id": "CLM-037",
+    "competitor": "paylocity.com",
+    "category": "messaging",
+    "statement": "Paylocity users report poor customer support as a frequent drawback (483 mentions)",
+    "evidence": [
+      {
+        "source_url": "g2:https://www.g2.com/products/paylocity/reviews",
+        "excerpt": "Poor Customer Support (483)",
+        "fetched_at": "2026-07-28T02:29:36.297631Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "g2_reviews"
+  }
+]

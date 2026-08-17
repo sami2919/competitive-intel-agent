@@ -1,0 +1,353 @@
+[
+  {
+    "id": "CAN-001",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "canonical_statement": "Deel achieves 4.8/5 rating on G2 with 14,000+ reviews",
+    "member_claim_ids": [
+      "CLM-004",
+      "CLM-061"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://deel.com",
+        "excerpt": "4.8/5|14K+ Reviews",
+        "fetched_at": "2026-07-15T22:02:05.944965Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "g2:https://www.g2.com/products/deel/reviews",
+        "excerpt": "4.7/5(6,837)",
+        "fetched_at": "2026-07-15T22:04:38.011882Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 2 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 50,
+    "winning_score_trace": "winning=50/100 (corroboration 20, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-002",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "canonical_statement": "Deel is trusted by 40,000+ companies across company sizes",
+    "member_claim_ids": [
+      "CLM-002",
+      "CLM-036",
+      "CLM-057"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://deel.com",
+        "excerpt": "Trusted by 40,000+ companies from startups to enterprise",
+        "fetched_at": "2026-07-15T22:02:05.944802Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "https://stripe.com/newsroom/news/deel-and-stripe",
+        "excerpt": "Deel is a global payroll and compliance platform that supports more than 40,000 businesses and 1.5 million workers worldwide.",
+        "fetched_at": "2026-07-15T22:04:28.078393Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "https://deel.com/careers",
+        "excerpt": "Trusted by **40,000+ companies** from startups to enterprise businesses",
+        "fetched_at": "2026-07-15T22:04:34.632881Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (3 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 3 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 60,
+    "winning_score_trace": "winning=60/100 (corroboration 30, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-003",
+    "competitor": "deel.com",
+    "category": "messaging",
+    "canonical_statement": "Deel manages employee lifecycle and provides HR services across 150+ countries from a single global platform",
+    "member_claim_ids": [
+      "CLM-013",
+      "CLM-017"
+    ],
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:deel.com",
+        "excerpt": "Deel HR te ayuda a gestionar cada etapa del ciclo de vida del colaborador en m\u00e1s de 150 pa\u00edses, desde una \u00fanica plataforma dise\u00f1ada para operar a nivel global.",
+        "fetched_at": "2026-07-15T22:02:24.582673Z",
+        "utm_params": null,
+        "first_seen": "2026-05-29T00:00:00Z",
+        "last_seen": "2026-05-29T00:00:00Z"
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single source, kept at 0.7",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 30,
+    "winning_score_trace": "winning=30/100 (corroboration 10, persistence 0, recency 20)"
+  },
+  {
+    "id": "CAN-004",
+    "competitor": "deel.com",
+    "category": "pricing",
+    "canonical_statement": "Deel offers flexible month-to-month pricing with transparent rates and no hidden fees",
+    "member_claim_ids": [
+      "CLM-007",
+      "CLM-011"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.deel.com/pricing",
+        "excerpt": "Transparent and fair pricing that grows with your business",
+        "fetched_at": "2026-07-15T22:02:05.945121Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single source, kept at 0.7",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-005",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "canonical_statement": "Deel stablecoin salary payouts are available to customers with employees in the US and Eurozone with further markets launching in 2026",
+    "member_claim_ids": [
+      "CLM-044",
+      "CLM-051"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.cpapracticeadvisor.com/2026/05/26/deel-announces-stablecoin-salary-payouts-new-head-of-crypto/183971/",
+        "excerpt": "The feature, which is free for employees, is available now for Deel EOR and global payroll customers with employees in the U.S. and across the Eurozone",
+        "fetched_at": "2026-07-15T22:04:28.078653Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "https://thepaypers.com/crypto-web3-and-cbdc/news/deel-launches-stablecoin-salary-payouts",
+        "excerpt": "The feature is currently available to Deel customers with employees in the US and across the Eurozone, with further markets expected to launch later in 2026.",
+        "fetched_at": "2026-07-15T22:04:28.078875Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 2 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 50,
+    "winning_score_trace": "winning=50/100 (corroboration 20, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-006",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "canonical_statement": "Deel launched DLUSD stablecoin wallet enabling contractors to hold, earn, and spend a US dollar backed balance",
+    "member_claim_ids": [
+      "CLM-035",
+      "CLM-052"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://stripe.com/newsroom/news/deel-and-stripe",
+        "excerpt": "Deel is using Stripe to enable millions of contractors across 150+ countries to hold, earn, and spend a US dollar backed balance.",
+        "fetched_at": "2026-07-15T22:04:28.078343Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "https://thedefiant.io/converge/tradfi-and-fintech/deel-deploys-stripe-stablecoin-stack-dlusd-contractors",
+        "excerpt": "Deel, the global payroll and compliance platform serving 40,000 businesses and 1.5 million workers across 150-plus countries, has tapped Stripe's full crypto-infrastructure stack to launch DLUSD, a USD-denominated stablecoin balance contractors can hold, earn rewards on, and spend without leaving the Deel app.",
+        "fetched_at": "2026-07-15T22:04:28.078905Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 2 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 50,
+    "winning_score_trace": "winning=50/100 (corroboration 20, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-007",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "canonical_statement": "Deel DLUSD stablecoin product launched in Argentina with remaining Latin America markets and other regions to follow",
+    "member_claim_ids": [
+      "CLM-037",
+      "CLM-053"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://stripe.com/newsroom/news/deel-and-stripe",
+        "excerpt": "The Deel stablecoin wallet is available today in Argentina, with remaining LATAM countries in the next few weeks and APAC, MENA, and Africa to follow.",
+        "fetched_at": "2026-07-15T22:04:28.078432Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "https://thedefiant.io/converge/tradfi-and-fintech/deel-deploys-stripe-stablecoin-stack-dlusd-contractors",
+        "excerpt": "The product went live in Argentina on June 3. Remaining Latin America markets follow in the coming weeks, with Asia-Pacific, the Middle East and North Africa, and Africa after that",
+        "fetched_at": "2026-07-15T22:04:28.078935Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 2 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 50,
+    "winning_score_trace": "winning=50/100 (corroboration 20, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-008",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "canonical_statement": "Deel announced stablecoin salary payouts and formed a dedicated crypto division",
+    "member_claim_ids": [
+      "CLM-042",
+      "CLM-050"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.cpapracticeadvisor.com/2026/05/26/deel-announces-stablecoin-salary-payouts-new-head-of-crypto/183971/",
+        "excerpt": "Deel has launched stablecoin salary payouts and announced the formation of a dedicated crypto division, led by new head of crypto Thierry Edde.",
+        "fetched_at": "2026-07-15T22:04:28.078593Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "https://thepaypers.com/crypto-web3-and-cbdc/news/deel-launches-stablecoin-salary-payouts",
+        "excerpt": "Deel has launched stablecoin salary payouts powered by BVNK and established a dedicated crypto division to oversee its digital asset operations.",
+        "fetched_at": "2026-07-15T22:04:28.078844Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 2 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 50,
+    "winning_score_trace": "winning=50/100 (corroboration 20, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-009",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "canonical_statement": "Deel Field Services covers 110+ countries including owned entities across 40+ African markets",
+    "member_claim_ids": [
+      "CLM-040",
+      "CLM-041"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://internationalbusinessnews.co.uk/deel-launches-field-services-to-scale-physical-workforces-across-global-markets/",
+        "excerpt": "Field Services covers 110+ countries (and growing), including owned entities across 40+ African markets",
+        "fetched_at": "2026-07-15T22:04:28.078531Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single source, kept at 0.5",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-010",
+    "competitor": "deel.com",
+    "category": "positioning",
+    "canonical_statement": "Deel achieved $1B+ annual recurring revenue in six years across 160+ countries",
+    "member_claim_ids": [
+      "CLM-047",
+      "CLM-056"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.unleash.ai/payroll/news/deel-hits-17-3-billion-valuation-with-new-300-million-series-e-funding",
+        "excerpt": "Since its foundation in 2019, Deel has experienced substantial growth, recording annual recurring revenues of $1 billion for the first time earlier this year.",
+        "fetched_at": "2026-07-15T22:04:28.078746Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      },
+      {
+        "source_url": "https://deel.com/careers",
+        "excerpt": "We went from zero to $1B+ ARR in six years across 160+ countries.",
+        "fetched_at": "2026-07-15T22:04:34.632814Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.9,
+    "confidence_trace": "two-or-more independent sources agree 0.9 (2 sources)",
+    "signal": "durable_pillar",
+    "signal_trace": "same message corroborated across 2 independent sources \u2014 a persistent, cross-channel pillar",
+    "winning_score": 50,
+    "winning_score_trace": "winning=50/100 (corroboration 20, persistence 15, recency 15)"
+  },
+  {
+    "id": "CAN-011",
+    "competitor": "deel.com",
+    "category": "recent_change",
+    "canonical_statement": "Deel was Arsenal's Official HR Platform Partner and became Official Sleeve Partner for 2026/27 season",
+    "member_claim_ids": [
+      "CLM-048",
+      "CLM-049"
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.arsenal.com/news/deel-and-arsenal-announce-sleeve-partnership",
+        "excerpt": "Deel, the leading global payroll and HR platform, will become our Official Sleeve Partner from the 2026/27 season in a multi-year agreement.",
+        "fetched_at": "2026-07-15T22:04:28.078777Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single source, kept at 0.5",
+    "signal": null,
+    "signal_trace": "single distinct source even after clustering \u2014 no corroboration",
+    "winning_score": 40,
+    "winning_score_trace": "winning=40/100 (corroboration 10, persistence 15, recency 15)"
+  }
+]

@@ -1,0 +1,1610 @@
+[
+  {
+    "id": "CLM-001",
+    "competitor": "gusto.com",
+    "category": "messaging",
+    "statement": "Gusto has 500,000+ businesses using its platform",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com",
+        "excerpt": "500,000+ businesses trust Gusto",
+        "fetched_at": "2026-07-16T00:38:48.639518Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-001",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-002",
+    "competitor": "gusto.com",
+    "category": "messaging",
+    "statement": "Gusto positions itself as simplifying payroll, HR, and benefits",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com",
+        "excerpt": "Payroll, HR, Benefits. Simplified.",
+        "fetched_at": "2026-07-16T00:38:48.639707Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-002",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-003",
+    "competitor": "gusto.com",
+    "category": "pricing",
+    "statement": "Gusto pricing starts at $49/month plus $6/month per person for Simple plan",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/product/pricing",
+        "excerpt": "Simple... $49/mo + $6/mo per person",
+        "fetched_at": "2026-07-16T00:38:48.639745Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-004",
+    "competitor": "gusto.com",
+    "category": "pricing",
+    "statement": "Gusto Plus plan costs $80/month plus $12/month per person with multi-state payroll and next-day pay",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/product/pricing",
+        "excerpt": "Plus... $80/mo + $12/mo per person... Multi-state payroll... Next-day pay",
+        "fetched_at": "2026-07-16T00:38:48.639769Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-005",
+    "competitor": "gusto.com",
+    "category": "pricing",
+    "statement": "Gusto Premium plan costs $180/month plus $22/month per person with dedicated service advisor",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/product/pricing",
+        "excerpt": "Premium... $180/mo + $22/mo per person... Dedicated Service Advisor",
+        "fetched_at": "2026-07-16T00:38:48.639787Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-006",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto claims customers save 152 hours per year on tax and compliance by switching",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com",
+        "excerpt": "152 hrs/year average time saved on tax & compliance by switching to Gusto",
+        "fetched_at": "2026-07-16T00:38:48.639804Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-007",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto receives #1 highest satisfaction rating on G2 in 2026",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com",
+        "excerpt": "G2 - #1 highest satisfaction software, G2 Review 2026",
+        "fetched_at": "2026-07-16T00:38:48.639821Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-004",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-008",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto has 4.5/5 star average rating from Forbes Advisor 2025",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com",
+        "excerpt": "Forbes - 4.5 star rating, Forbes Advisor 2025",
+        "fetched_at": "2026-07-16T00:38:48.639837Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-009",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto named #1 Most Innovative Company in HR by FastCompany 2025",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/product/pricing",
+        "excerpt": "#1 Most Innovative Company in HR... FastCompany | 2025",
+        "fetched_at": "2026-07-16T00:38:48.639852Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-010",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "9 out of 10 Gusto customers would recommend the service",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com",
+        "excerpt": "9 out of 10 customers would recommend Gusto",
+        "fetched_at": "2026-07-16T00:38:48.639867Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-011",
+    "competitor": "gusto.com",
+    "category": "messaging",
+    "statement": "Gusto automatically calculates and syncs hours with payroll, helping with compliance",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com",
+        "excerpt": "Gusto automatically calculates and syncs your team's hours, PTO, and holidays with payroll. Plus, we help you stay compliant",
+        "fetched_at": "2026-07-16T00:38:48.639897Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-003",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-012",
+    "competitor": "gusto.com",
+    "category": "messaging",
+    "statement": "Gusto helps identify tax credits to save money for businesses",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com",
+        "excerpt": "identify tax credits to help save you money you may never have known you qualified for",
+        "fetched_at": "2026-07-16T00:38:48.639939Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-010",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-013",
+    "competitor": "gusto.com",
+    "category": "pricing",
+    "statement": "Gusto contractor-only plan available at $35 discounted to $0/month base for first 6 months, plus $6/month per person",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/product/pricing",
+        "excerpt": "Contractor only... $35$0/mo... +$6/mo per person",
+        "fetched_at": "2026-07-16T00:38:48.639958Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-014",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto offers month-to-month billing with no long-term contracts",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/product/pricing",
+        "excerpt": "No contracts. Free account setup. Switch or cancel anytime",
+        "fetched_at": "2026-07-16T00:38:48.639990Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-015",
+    "competitor": "gusto.com",
+    "category": "pricing",
+    "statement": "Gusto provides health insurance administration at no extra cost when using Gusto as broker",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/product/pricing",
+        "excerpt": "With Gusto as your broker, health insurance administration comes at no extra cost. You'll only pay the cost of the insurance premium",
+        "fetched_at": "2026-07-16T00:38:48.640006Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-016",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto's Contractor Only plan is a discounted alternative for contractor-only businesses",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/product/pricing",
+        "excerpt": "For contractor-only businesses who haven't hired W-2 employees yet",
+        "fetched_at": "2026-07-16T00:38:48.640029Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-017",
+    "competitor": "gusto.com",
+    "category": "messaging",
+    "statement": "Gusto integrates with accounting software including QuickBooks, Xero, Aplos, ZipBooks, Autobooks, and FreshBooks",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/product/pricing",
+        "excerpt": "We work with accounting programs like QuickBooks, Xero, Aplos, ZipBooks, Autobooks, and FreshBooks",
+        "fetched_at": "2026-07-16T00:38:48.640052Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-005",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-018",
+    "competitor": "gusto.com",
+    "category": "messaging",
+    "statement": "Gusto handles federal, state, and local payroll tax forms and filings",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/product/pricing",
+        "excerpt": "We file federal, state, and local payroll tax forms on your company's behalf (things like Form W-2, Form 1099, Form 940, Form 941)",
+        "fetched_at": "2026-07-16T00:38:48.640067Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-003",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-019",
+    "competitor": "gusto.com",
+    "category": "messaging",
+    "statement": "Gusto enables unlimited payroll runs per month across all plans",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/product/pricing",
+        "excerpt": "Every Gusto plan comes with unlimited payroll runs",
+        "fetched_at": "2026-07-16T00:38:48.640081Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-006",
+    "source_tool": "crawl_site"
+  },
+  {
+    "id": "CLM-020",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto enables flexible pay schedules with unlimited payrolls at no extra cost",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:gusto.com (page_id 187776731324057)",
+        "excerpt": "Pay your team weekly, or use different pay schedules \u2014 you can run infinite payrolls at no extra cost.",
+        "fetched_at": "2026-07-16T00:39:05.847644Z",
+        "utm_params": null,
+        "first_seen": "2026-02-20T00:00:00Z",
+        "last_seen": "2026-07-16T00:39:05.847644Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (146d) \u2014 durable creative, proxy for performance",
+    "canonical_id": "CAN-006",
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-021",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto Solo targets S-corp owners with tax savings and compliance automation",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:gusto.com (page_id 187776731324057)",
+        "excerpt": "Save hours on compliance and thousands on your taxes as an S-corp. Try Gusto Solo today.",
+        "fetched_at": "2026-07-16T00:39:05.847838Z",
+        "utm_params": null,
+        "first_seen": "2026-04-10T00:00:00Z",
+        "last_seen": "2026-07-16T00:39:05.847838Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (97d) \u2014 durable creative, proxy for performance",
+    "canonical_id": "CAN-007",
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-022",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto positions pricing starting at $55/month with payroll plus additional HR features",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:gusto.com (page_id 187776731324057)",
+        "excerpt": "Payroll is just the beginning. Sign up for Gusto today, starting at just $55 a month.",
+        "fetched_at": "2026-07-16T00:39:05.848032Z",
+        "utm_params": null,
+        "first_seen": "2026-02-20T00:00:00Z",
+        "last_seen": "2026-07-16T00:39:05.848032Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (146d) \u2014 durable creative, proxy for performance",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-023",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto runs a switching/migration campaign angle emphasizing ease of transition",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:gusto.com (page_id 187776731324057)",
+        "excerpt": "Switching is easy! Join Gusto to seamlessly pay, insure, and support your team today.",
+        "fetched_at": "2026-07-16T00:39:05.848148Z",
+        "utm_params": null,
+        "first_seen": "2026-04-13T00:00:00Z",
+        "last_seen": "2026-07-16T00:39:05.848148Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (94d) \u2014 durable creative, proxy for performance",
+    "canonical_id": "CAN-008",
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-024",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto positions as integrated HR platform combining payroll, benefits, and compliance",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:gusto.com (page_id 187776731324057)",
+        "excerpt": "Choose Gusto for payroll, benefits, and more\u2014built for small businesses.",
+        "fetched_at": "2026-07-16T00:39:05.848180Z",
+        "utm_params": null,
+        "first_seen": "2026-04-13T00:00:00Z",
+        "last_seen": "2026-07-16T00:39:05.848180Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (94d) \u2014 durable creative, proxy for performance",
+    "canonical_id": "CAN-002",
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-025",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto emphasizes accuracy and reliability in payroll, taxes, and compliance execution",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:gusto.com (page_id 187776731324057)",
+        "excerpt": "Forget the \"did I do that?\" moments. Gusto keeps payroll, taxes, and compliance accurate and on schedule.",
+        "fetched_at": "2026-07-16T00:39:05.848230Z",
+        "utm_params": null,
+        "first_seen": "2026-06-04T00:00:00Z",
+        "last_seen": "2026-07-16T00:39:05.848230Z"
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "possible_test",
+    "signal_trace": "running < 90d (42d) \u2014 new/narrow, may be an active test",
+    "canonical_id": "CAN-003",
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-026",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto targets solopreneurs transitioning from owner draws to compliant S-Corp payroll",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:gusto.com (page_id 187776731324057)",
+        "excerpt": "Move from draws to compliant S-Corp payroll with automated tax calculations built in.",
+        "fetched_at": "2026-07-16T00:39:05.848345Z",
+        "utm_params": null,
+        "first_seen": "2026-05-18T00:00:00Z",
+        "last_seen": "2026-07-16T00:39:05.848345Z"
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "possible_test",
+    "signal_trace": "running < 90d (59d) \u2014 new/narrow, may be an active test",
+    "canonical_id": "CAN-007",
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-027",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto positions as scalable HR solution for growing teams",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:gusto.com (page_id 187776731324057)",
+        "excerpt": "As your team grows, Gusto keeps payroll, HR, and benefits simple and scalable.",
+        "fetched_at": "2026-07-16T00:39:05.848418Z",
+        "utm_params": null,
+        "first_seen": "2026-06-30T00:00:00Z",
+        "last_seen": "2026-07-16T00:39:05.848418Z"
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "possible_test",
+    "signal_trace": "running < 90d (16d) \u2014 new/narrow, may be an active test",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-028",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto emphasizes unified platform consolidating payroll, onboarding, time off, benefits, and compliance",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:gusto.com (page_id 187776731324057)",
+        "excerpt": "Run payroll, onboard employees, manage time off, handle benefits, and stay compliant, with just one login.",
+        "fetched_at": "2026-07-16T00:39:05.848443Z",
+        "utm_params": null,
+        "first_seen": "2026-06-30T00:00:00Z",
+        "last_seen": "2026-07-16T00:39:05.848443Z"
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "possible_test",
+    "signal_trace": "running < 90d (16d) \u2014 new/narrow, may be an active test",
+    "canonical_id": "CAN-002",
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-029",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto uses customer testimonials from sports organizations (Oakland Ballers, Long Beach Coast) in ads",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:gusto.com (page_id 187776731324057)",
+        "excerpt": "Take it from Oakland Ballers GM Laura Geist: Gusto makes it easy.",
+        "fetched_at": "2026-07-16T00:39:05.848528Z",
+        "utm_params": null,
+        "first_seen": "2026-06-04T00:00:00Z",
+        "last_seen": "2026-07-16T00:39:05.848528Z"
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "possible_test",
+    "signal_trace": "running < 90d (42d) \u2014 new/narrow, may be an active test",
+    "canonical_id": null,
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-030",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto Solo offers automated tax calculations and compliance tools designed for S-Corp owners",
+    "evidence": [
+      {
+        "source_url": "meta-ad-library:gusto.com (page_id 187776731324057)",
+        "excerpt": "Run S-Corp payroll with built-in tax calculations and compliance tools designed for owners.",
+        "fetched_at": "2026-07-16T00:39:05.848551Z",
+        "utm_params": null,
+        "first_seen": "2026-05-20T00:00:00Z",
+        "last_seen": "2026-07-16T00:39:05.848551Z"
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "possible_test",
+    "signal_trace": "running < 90d (57d) \u2014 new/narrow, may be an active test",
+    "canonical_id": "CAN-007",
+    "source_tool": "meta_ads"
+  },
+  {
+    "id": "CLM-031",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto positions switching/migration from competitor HR software as a key campaign angle",
+    "evidence": [
+      {
+        "source_url": "google-ads:gusto.com",
+        "excerpt": "Switch to Gusto HR Software - Free Account Setup",
+        "fetched_at": "2026-07-16T00:39:56.725203Z",
+        "utm_params": null,
+        "first_seen": "2022-12-14T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (1309d) \u2014 durable creative, proxy for performance",
+    "canonical_id": "CAN-008",
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-032",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto claims 84% of customers report ease of use as a key benefit",
+    "evidence": [
+      {
+        "source_url": "google-ads:gusto.com",
+        "excerpt": "84 % of our customers say Gusto makes it very easy to",
+        "fetched_at": "2026-07-16T00:39:56.725371Z",
+        "utm_params": null,
+        "first_seen": "2022-12-14T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (1309d) \u2014 durable creative, proxy for performance",
+    "canonical_id": "CAN-009",
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-033",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto targets law firms with payroll positioning emphasizing no hidden fees",
+    "evidence": [
+      {
+        "source_url": "google-ads:gusto.com",
+        "excerpt": "Payroll for Law Firms - No Hidden Fees or Charges",
+        "fetched_at": "2026-07-16T00:39:56.725395Z",
+        "utm_params": null,
+        "first_seen": "2023-10-06T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (1013d) \u2014 durable creative, proxy for performance",
+    "canonical_id": null,
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-034",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto emphasizes simplicity and ease of use compared to competitors in payroll category",
+    "evidence": [
+      {
+        "source_url": "google-ads:gusto.com",
+        "excerpt": "Gusto is Easier to Use \u2014 Simply the best payroll service for small business",
+        "fetched_at": "2026-07-16T00:39:56.725417Z",
+        "utm_params": null,
+        "first_seen": "2022-08-25T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (1420d) \u2014 durable creative, proxy for performance",
+    "canonical_id": "CAN-009",
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-035",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto promotes automated tax filing as a platform capability",
+    "evidence": [
+      {
+        "source_url": "google-ads:gusto.com",
+        "excerpt": "Auto File Taxes With Gusto",
+        "fetched_at": "2026-07-16T00:39:56.725434Z",
+        "utm_params": null,
+        "first_seen": "2024-05-03T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (803d) \u2014 durable creative, proxy for performance",
+    "canonical_id": "CAN-003",
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-036",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto targets small businesses with remote teams using HR software messaging",
+    "evidence": [
+      {
+        "source_url": "google-ads:gusto.com",
+        "excerpt": "Simple software to manage HR , payroll & benefits for remote teams",
+        "fetched_at": "2026-07-16T00:39:56.725451Z",
+        "utm_params": null,
+        "first_seen": "2024-03-28T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (839d) \u2014 durable creative, proxy for performance",
+    "canonical_id": null,
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-037",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto positions as an all-in-one platform covering payroll, benefits, onboarding, and compliance",
+    "evidence": [
+      {
+        "source_url": "google-ads:gusto.com",
+        "excerpt": "Manage payroll , benefits , onboarding , and compliance with Gusto's all - in - one platform",
+        "fetched_at": "2026-07-16T00:39:56.725468Z",
+        "utm_params": null,
+        "first_seen": "2024-05-03T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (803d) \u2014 durable creative, proxy for performance",
+    "canonical_id": "CAN-002",
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-038",
+    "competitor": "gusto.com",
+    "category": "ads_paid_social",
+    "statement": "Gusto emphasizes full-service payroll with automatic tax calculations and compliance as core offering",
+    "evidence": [
+      {
+        "source_url": "google-ads:gusto.com",
+        "excerpt": "Get full - service payroll , automatic tax calculations , and compliance help with Gusto",
+        "fetched_at": "2026-07-16T00:39:56.725498Z",
+        "utm_params": null,
+        "first_seen": "2022-09-26T00:00:00Z",
+        "last_seen": "2026-07-15T00:00:00Z"
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "inferred 0.3; longevity>=90d +0.2; single channel, performance path; cap 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": "likely_winner",
+    "signal_trace": "running >= 90d (1388d) \u2014 durable creative, proxy for performance",
+    "canonical_id": "CAN-003",
+    "source_tool": "google_ads"
+  },
+  {
+    "id": "CLM-039",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto positions itself as #1 in Satisfaction Score",
+    "evidence": [
+      {
+        "source_url": "wayback:https://gusto.com/",
+        "excerpt": "#1 in Satisfaction Score",
+        "fetched_at": "2026-07-16T00:40:52.788906Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-004",
+    "source_tool": "wayback_diff"
+  },
+  {
+    "id": "CLM-040",
+    "competitor": "gusto.com",
+    "category": "messaging",
+    "statement": "Gusto offers payroll with automated deductions, direct deposit, and tax filing",
+    "evidence": [
+      {
+        "source_url": "wayback:https://gusto.com/",
+        "excerpt": "Automated deductions, direct deposit and tax filing",
+        "fetched_at": "2026-07-16T00:40:52.789156Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-003",
+    "source_tool": "wayback_diff"
+  },
+  {
+    "id": "CLM-041",
+    "competitor": "gusto.com",
+    "category": "messaging",
+    "statement": "Gusto offers time tracking and time-off request features",
+    "evidence": [
+      {
+        "source_url": "wayback:https://gusto.com/",
+        "excerpt": "Time tracking and time-off requests",
+        "fetched_at": "2026-07-16T00:40:52.789185Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "wayback_diff"
+  },
+  {
+    "id": "CLM-042",
+    "competitor": "gusto.com",
+    "category": "icp_targeting",
+    "statement": "Gusto targets solopreneurs with payroll, tax savings, and benefits offerings",
+    "evidence": [
+      {
+        "source_url": "wayback:https://gusto.com/",
+        "excerpt": "Solopreneur? Payroll, tax savings, and benefits for your business.",
+        "fetched_at": "2026-07-16T00:40:52.789204Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; no direct source",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "inferred",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-007",
+    "source_tool": "wayback_diff"
+  },
+  {
+    "id": "CLM-043",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto positions itself as a comprehensive small-business resource hub covering payroll, hiring, taxes, and business formation",
+    "evidence": [
+      {
+        "source_url": "social:https://gusto.com/blog",
+        "excerpt": "Starting a Business, Hiring and Growth, Finance and Taxes, Team Management, State Business Resource Hub",
+        "fetched_at": "2026-07-16T00:40:58.354434Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-002",
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-044",
+    "competitor": "gusto.com",
+    "category": "social_content",
+    "statement": "Gusto creates educational content on payroll setup for first-time employers",
+    "evidence": [
+      {
+        "source_url": "social:https://gusto.com/blog",
+        "excerpt": "How Do I Set Up Payroll for the First Time? The Employer's Complete Guide",
+        "fetched_at": "2026-07-16T00:40:58.354523Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-011",
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-045",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto offers guidance on tax credits and tax strategy (EITC, WOTC, R&D Credit, self-employment tax reduction)",
+    "evidence": [
+      {
+        "source_url": "social:https://gusto.com/blog",
+        "excerpt": "What Is the Earned Income Tax Credit, Work Opportunity Tax Credit (WOTC), How to Reduce Self-Employment Tax with an S Corp, How to File a Retroactive Claim for the Federal R&D Tax Credit",
+        "fetched_at": "2026-07-16T00:40:58.354542Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-010",
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-046",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto provides state-specific hiring and compliance guidance",
+    "evidence": [
+      {
+        "source_url": "social:https://gusto.com/blog",
+        "excerpt": "10 Critical Steps When Hiring Employees in Maryland, The Employer's Guide to Hiring Employees in Hawaii, State Retirement Mandates in 2026: A Current Breakdown by State",
+        "fetched_at": "2026-07-16T00:40:58.354558Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-047",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto offers retirement planning and 401(k) administration content and features",
+    "evidence": [
+      {
+        "source_url": "social:https://gusto.com/blog",
+        "excerpt": "Solo 401(k) Plan Contributions, Simplified: Meet Gusto Retirement's Digital Contribution Features, Everything employers need to know about SECURE 2.0 Act, What Should You Do With Your Old 401(k)?",
+        "fetched_at": "2026-07-16T00:40:58.354571Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-048",
+    "competitor": "gusto.com",
+    "category": "social_content",
+    "statement": "Gusto creates video educational content on payroll, tax forms, business ownership, and tax reform",
+    "evidence": [
+      {
+        "source_url": "social:https://gusto.com/blog",
+        "excerpt": "WATCH: How to Set up the Right PTO Policy for Your Business, WATCH: What You Need to Know About Form W-4, WATCH: How to Pay Yourself as a Business Owner, WATCH: The New US Tax Reform: Breaking it Down for Your Small Business",
+        "fetched_at": "2026-07-16T00:40:58.354584Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.7,
+    "confidence_trace": "single primary source (own channel) 0.7",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-011",
+    "source_tool": "social_posts"
+  },
+  {
+    "id": "CLM-049",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto offers same-day international contractor payments via Wise and USDC stablecoin",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/company-news/same-day-international-contractor-payments",
+        "excerpt": "eligible Gusto employers can pay international contractors the same day with two new same-day payment options: Wise Account and Stablecoin (USDC)",
+        "fetched_at": "2026-07-16T00:41:12.379453Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-012",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-050",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto positions USDC stablecoin payments as protecting contractors from currency volatility",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/company-news/same-day-international-contractor-payments",
+        "excerpt": "Because USDC is pegged 1:1 to the US dollar, contractors in regions with currency volatility keep exactly what they earn with no exchange rate surprises",
+        "fetched_at": "2026-07-16T00:41:12.379569Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-012",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-051",
+    "competitor": "gusto.com",
+    "category": "recent_change",
+    "statement": "Gusto launched Gusto Solo, a compliance and payroll platform purpose-built for solopreneurs",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/company-news/gusto-solo-announcement",
+        "excerpt": "Gusto Solo is a purpose-built platform empowering solopreneurs to thrive\u2014unlocking financial advantages and simplifying compliance",
+        "fetched_at": "2026-07-16T00:41:12.379588Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-013",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-052",
+    "competitor": "gusto.com",
+    "category": "icp_targeting",
+    "statement": "Gusto Solo targets solopreneurs at growth inflection point who are too large for personal finance tools but not hiring teams",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/company-news/gusto-solo-announcement",
+        "excerpt": "they're too big for personal finance tools, but are not looking to hire a team to help manage these tasks for them",
+        "fetched_at": "2026-07-16T00:41:12.379604Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; no direct source",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "inferred",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-007",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-053",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto Solo offers S-corp tax savings as a core value proposition",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/company-news/gusto-solo-announcement",
+        "excerpt": "With Gusto Solo, one-person businesses can save thousands on taxes and set themselves up for long-term success",
+        "fetched_at": "2026-07-16T00:41:12.379619Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-013",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-054",
+    "competitor": "gusto.com",
+    "category": "recent_change",
+    "statement": "Gusto launched Cofounder, an AI teammate built specifically for small business owners with payroll and compliance context",
+    "evidence": [
+      {
+        "source_url": "https://www.prnewswire.com/news-releases/gusto-launches-cofounder-an-ai-teammate-purpose-built-for-small-business-302787745.html",
+        "excerpt": "Gusto Cofounder, an AI teammate built specifically for small business owners. Unlike general-purpose AI tools that start from a blank slate, Cofounder launches with context from Gusto and customer-authorized connected tools",
+        "fetched_at": "2026-07-16T00:41:12.379639Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-014",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-055",
+    "competitor": "gusto.com",
+    "category": "messaging",
+    "statement": "Gusto positions Cofounder as handling 'work before the work'\u2014data pulling, spreadsheets, missing inputs that consume owner time",
+    "evidence": [
+      {
+        "source_url": "https://www.prnewswire.com/news-releases/gusto-launches-cofounder-an-ai-teammate-purpose-built-for-small-business-302787745.html",
+        "excerpt": "It's one of the most hidden burdens of running a business and Gusto Cofounder was built to take that off their plates entirely",
+        "fetched_at": "2026-07-16T00:41:12.379654Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-014",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-056",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto Cofounder integrates with Google Workspace, Notion, and Slack",
+    "evidence": [
+      {
+        "source_url": "https://www.prnewswire.com/news-releases/gusto-launches-cofounder-an-ai-teammate-purpose-built-for-small-business-302787745.html",
+        "excerpt": "Gusto Cofounder integrates with Google Workspace, Notion, Slack, and other tools small businesses already use",
+        "fetched_at": "2026-07-16T00:41:12.379668Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-005",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-057",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto AI helped small businesses claim $70 million in tax credits during TY25 filing season",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/company-news/ai-tax-savings-2026",
+        "excerpt": "This spring, Gusto's AI helped small businesses claim $70 million in tax credits during the TY25 filing season",
+        "fetched_at": "2026-07-16T00:41:12.379682Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-058",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto reached 500,000 customers milestone as of April 2026",
+    "evidence": [
+      {
+        "source_url": "https://www.prnewswire.com/news-releases/gusto-reaches-500-000-customers-and-unveils-nearly-75-new-features-for-small-businesses-302751686.html",
+        "excerpt": "more than 500,000 small businesses rely on Gusto to manage their payroll, benefits, tax credits, compliance, HR, and more",
+        "fetched_at": "2026-07-16T00:41:12.379702Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-001",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-059",
+    "competitor": "gusto.com",
+    "category": "recent_change",
+    "statement": "Gusto Spring Showcase 2026 unveiled Money Dashboard with real-time 'safe-to-pay' signal for payroll timing",
+    "evidence": [
+      {
+        "source_url": "https://www.prnewswire.com/news-releases/gusto-reaches-500-000-customers-and-unveils-nearly-75-new-features-for-small-businesses-302751686.html",
+        "excerpt": "Gusto Money Dashboard\u2014 A new consolidated view of previous payroll amounts, upcoming costs, and live bank account balances, featuring a real-time 'safe-to-pay' signal",
+        "fetched_at": "2026-07-16T00:41:12.379718Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-060",
+    "competitor": "gusto.com",
+    "category": "recent_change",
+    "statement": "Gusto added ChatGPT, Claude, and Slack integrations for payroll and business data queries",
+    "evidence": [
+      {
+        "source_url": "https://www.prnewswire.com/news-releases/gusto-reaches-500-000-customers-and-unveils-nearly-75-new-features-for-small-businesses-302751686.html",
+        "excerpt": "ChatGPT, Claude, and Slack Integrations\u2014 Gusto connects payroll and business data directly into AI-powered workflows",
+        "fetched_at": "2026-07-16T00:41:12.379731Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-061",
+    "competitor": "gusto.com",
+    "category": "recent_change",
+    "statement": "Gusto expanded tax credits automation to include FICA Tips Tax Credit and 401(k) Tax Credit",
+    "evidence": [
+      {
+        "source_url": "https://www.prnewswire.com/news-releases/gusto-reaches-500-000-customers-and-unveils-nearly-75-new-features-for-small-businesses-302751686.html",
+        "excerpt": "two new credits: the FICA Tips Tax Credit and the 401(k) Tax Credit",
+        "fetched_at": "2026-07-16T00:41:12.379745Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-010",
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-062",
+    "competitor": "gusto.com",
+    "category": "recent_change",
+    "statement": "Gusto added Remote I-9 Verification directly in platform with E-Verify integration",
+    "evidence": [
+      {
+        "source_url": "https://www.prnewswire.com/news-releases/gusto-reaches-500-000-customers-and-unveils-nearly-75-new-features-for-small-businesses-302751686.html",
+        "excerpt": "Remote I-9 Verification\u2014 Available directly in Gusto, with guided form completion, E-Verify integration, and authorized representative verification",
+        "fetched_at": "2026-07-16T00:41:12.379758Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "news_press"
+  },
+  {
+    "id": "CLM-063",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto positions AI as a tool for absorbing operational complexity and giving small-business customers leverage",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/careers",
+        "excerpt": "We use it because it gives people leverage\u2014absorbing complexity so customers and teams can focus on what matters most.",
+        "fetched_at": "2026-07-16T00:41:16.271577Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "jobs_signals"
+  },
+  {
+    "id": "CLM-064",
+    "competitor": "gusto.com",
+    "category": "messaging",
+    "statement": "Gusto emphasizes speed and learning velocity as competitive advantages in product development",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/careers",
+        "excerpt": "Speed and learning velocity are competitive advantages. We run tight feedback loops, form clear hypotheses, test quickly, and improve relentlessly.",
+        "fetched_at": "2026-07-16T00:41:16.271623Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-009",
+    "source_tool": "jobs_signals"
+  },
+  {
+    "id": "CLM-065",
+    "competitor": "gusto.com",
+    "category": "icp_targeting",
+    "statement": "Gusto targets small businesses as underserved market segment requiring simplified payroll, benefits, and compliance systems",
+    "evidence": [
+      {
+        "source_url": "https://gusto.com/careers",
+        "excerpt": "Small businesses are the backbone of the economy, but the systems that support them are often complex, outdated, and frustrating.",
+        "fetched_at": "2026-07-16T00:41:16.271641Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.3,
+    "confidence_trace": "inferred 0.3; no direct source",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "inferred",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": null,
+    "source_tool": "jobs_signals"
+  },
+  {
+    "id": "CLM-066",
+    "competitor": "gusto.com",
+    "category": "messaging",
+    "statement": "Gusto has a 4.6/5 rating on G2 based on 11,742 reviews",
+    "evidence": [
+      {
+        "source_url": "g2:https://www.g2.com/products/gusto/reviews",
+        "excerpt": "4.6/5(11,742)",
+        "fetched_at": "2026-07-16T00:41:18.829054Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-004",
+    "source_tool": "g2_reviews"
+  },
+  {
+    "id": "CLM-067",
+    "competitor": "gusto.com",
+    "category": "positioning",
+    "statement": "Gusto is positioned as a comprehensive HR solution for payroll, benefits, hiring, and employee management",
+    "evidence": [
+      {
+        "source_url": "g2:https://www.g2.com/products/gusto/reviews",
+        "excerpt": "Gusto is a comprehensive human resources (HR) solution designed to assist businesses in managing their payroll, benefits, hiring, and employee management",
+        "fetched_at": "2026-07-16T00:41:18.829107Z",
+        "utm_params": null,
+        "first_seen": null,
+        "last_seen": null
+      }
+    ],
+    "confidence": 0.5,
+    "confidence_trace": "single secondary source (press/review) 0.5",
+    "extracted_by": "claude-haiku-4-5/extractor_v3",
+    "observed_vs_inferred": "observed",
+    "signal": null,
+    "signal_trace": "",
+    "canonical_id": "CAN-002",
+    "source_tool": "g2_reviews"
+  }
+]

@@ -1,0 +1,119 @@
+{
+  "competitor": "deel.com",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash",
+  "prompt_version": "judge_v1",
+  "judged_at": "2026-07-15T22:44:00.394403Z",
+  "status": "ok",
+  "note": "",
+  "claim_judgements": [
+    {
+      "claim_id": "CLM-001",
+      "statement": "Deel provides hire, manage, pay, and equip services for global teams",
+      "faithfulness": 1.0,
+      "specificity": 0.8,
+      "hallucination": false,
+      "note": "The evidence directly supports the statement with matching services."
+    },
+    {
+      "claim_id": "CLM-026",
+      "statement": "Deel runs a paid search ad on IT security positioning for remote-first teams",
+      "faithfulness": 1.0,
+      "specificity": 0.9,
+      "hallucination": false,
+      "note": "The Google Ads copy directly supports the claim of running an IT security ad for remote-first teams."
+    },
+    {
+      "claim_id": "CLM-027",
+      "statement": "Deel runs a paid search ad on global payroll consolidation",
+      "faithfulness": 1.0,
+      "specificity": 0.9,
+      "hallucination": false,
+      "note": "The Google Ads copy directly supports the claim of running a global payroll consolidation ad."
+    },
+    {
+      "claim_id": "CLM-003",
+      "statement": "Deel has processed $20B+ in compliant global payroll",
+      "faithfulness": 1.0,
+      "specificity": 0.9,
+      "hallucination": false,
+      "note": "The evidence directly supports the $20B+ processed global payroll claim."
+    },
+    {
+      "claim_id": "CLM-034",
+      "statement": "Deel announced a new global mobility platform in 2026",
+      "faithfulness": 1.0,
+      "specificity": 0.9,
+      "hallucination": false,
+      "note": "The blog post recap from 2026 directly confirms the announcement of the global mobility platform."
+    },
+    {
+      "claim_id": "CLM-054",
+      "statement": "In 2025, 85% of contractors in Argentina told Deel they wanted to be paid in dollars rather than pesos",
+      "faithfulness": 1.0,
+      "specificity": 1.0,
+      "hallucination": false,
+      "note": "The cited article contains the exact quote supporting the statement."
+    },
+    {
+      "claim_id": "CLM-005",
+      "statement": "Deel achieves 4.8/5 rating on Trustpilot with 8,000+ reviews",
+      "faithfulness": 0.8,
+      "specificity": 0.9,
+      "hallucination": false,
+      "note": "The evidence supports the rating and review count, though it does not explicitly name Trustpilot."
+    },
+    {
+      "claim_id": "CLM-036",
+      "statement": "Deel serves more than 40,000 businesses and 1.5 million workers worldwide",
+      "faithfulness": 1.0,
+      "specificity": 0.9,
+      "hallucination": false,
+      "note": "The Stripe newsroom article directly supports the business and worker counts."
+    },
+    {
+      "claim_id": "CLM-007",
+      "statement": "Deel provides transparent pricing with no hidden fees",
+      "faithfulness": 0.8,
+      "specificity": 0.4,
+      "hallucination": false,
+      "note": "The evidence supports 'transparent pricing' but does not explicitly mention 'no hidden fees'."
+    },
+    {
+      "claim_id": "CLM-038",
+      "statement": "Deel is a global payroll and HR platform that helps companies hire, manage, pay, and equip any worker, anywhere",
+      "faithfulness": 1.0,
+      "specificity": 0.7,
+      "hallucination": false,
+      "note": "The press page boilerplate directly matches the statement."
+    },
+    {
+      "claim_id": "CLM-009",
+      "statement": "Deel Contractor pricing starts at $49 per contractor per month",
+      "faithfulness": 1.0,
+      "specificity": 0.9,
+      "hallucination": false,
+      "note": "The pricing page excerpt directly supports the starting price of $49 per contractor per month."
+    },
+    {
+      "claim_id": "CLM-040",
+      "statement": "Deel Field Services covers 110+ countries including owned entities across 40+ African markets",
+      "faithfulness": 1.0,
+      "specificity": 0.9,
+      "hallucination": false,
+      "note": "The news article directly supports the country and entity coverage for Field Services."
+    }
+  ],
+  "brief_judgement": {
+    "rippling_relevance": 1.0,
+    "recency_realness": 1.0,
+    "usefulness": 1.0,
+    "rationale": "The brief is exceptionally high quality, demonstrating a rigorous application of the three-way distinction for recent changes with honest, clear hedging on press-driven signals. The Rippling-relevance angles are highly specific, campaign-ready, and directly leverage Rippling's unique product strengths (like native device management) against Deel's strategic moves, making it highly actionable and useful for a growth marketer."
+  },
+  "aggregate": {
+    "n": 12,
+    "mean_faithfulness": 0.9666666666666667,
+    "mean_specificity": 0.8416666666666667,
+    "hallucination_rate": 0.0
+  }
+}

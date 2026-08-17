@@ -1,0 +1,119 @@
+{
+  "competitor": "gusto.com",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash",
+  "prompt_version": "judge_v1",
+  "judged_at": "2026-07-15T22:41:51.490248Z",
+  "status": "ok",
+  "note": "",
+  "claim_judgements": [
+    {
+      "claim_id": "CLM-001",
+      "statement": "Gusto has 500,000+ businesses as customers",
+      "faithfulness": 1.0,
+      "specificity": 1.0,
+      "hallucination": false,
+      "note": "The evidence directly supports the specific claim of having 500,000+ businesses as customers."
+    },
+    {
+      "claim_id": "CLM-031",
+      "statement": "Gusto positions itself as an HR toolbox for building stronger teams",
+      "faithfulness": 1.0,
+      "specificity": 0.5,
+      "hallucination": false,
+      "note": "The ad copy directly supports the positioning statement, though the claim itself is somewhat marketing-oriented."
+    },
+    {
+      "claim_id": "CLM-027",
+      "statement": "Gusto allows flexible pay schedules with unlimited payrolls at no extra cost",
+      "faithfulness": 1.0,
+      "specificity": 1.0,
+      "hallucination": false,
+      "note": "The evidence directly supports the specific features of flexible pay schedules and unlimited payrolls at no extra cost."
+    },
+    {
+      "claim_id": "CLM-003",
+      "statement": "Gusto received CNBC Best Payroll Software award for user experience 2025",
+      "faithfulness": 1.0,
+      "specificity": 1.0,
+      "hallucination": false,
+      "note": "The evidence directly supports the specific award details, including the organization, category, and year."
+    },
+    {
+      "claim_id": "CLM-044",
+      "statement": "Gusto HR Cloud Software enables remote payroll management in minutes",
+      "faithfulness": 1.0,
+      "specificity": 0.8,
+      "hallucination": false,
+      "note": "The Google Ad copy directly supports the claim of running remote payroll in minutes."
+    },
+    {
+      "claim_id": "CLM-029",
+      "statement": "Gusto pricing starts at $55 per month",
+      "faithfulness": 1.0,
+      "specificity": 1.0,
+      "hallucination": false,
+      "note": "The ad copy directly supports the specific starting price of $55 per month."
+    },
+    {
+      "claim_id": "CLM-005",
+      "statement": "Gusto has 4.5 star rating on Forbes Advisor 2025",
+      "faithfulness": 1.0,
+      "specificity": 1.0,
+      "hallucination": false,
+      "note": "The evidence directly supports the specific rating and source."
+    },
+    {
+      "claim_id": "CLM-046",
+      "statement": "Gusto provides full-service payroll with automatic tax calculations and compliance help",
+      "faithfulness": 1.0,
+      "specificity": 1.0,
+      "hallucination": false,
+      "note": "The Google Ad copy directly supports the specific features listed."
+    },
+    {
+      "claim_id": "CLM-032",
+      "statement": "Gusto positions itself as built for small businesses across payroll, benefits, and more",
+      "faithfulness": 1.0,
+      "specificity": 0.7,
+      "hallucination": false,
+      "note": "The ad copy directly supports the positioning statement for small businesses."
+    },
+    {
+      "claim_id": "CLM-007",
+      "statement": "Gusto can save customers an average of 152 hours/year on tax and compliance by switching",
+      "faithfulness": 1.0,
+      "specificity": 1.0,
+      "hallucination": false,
+      "note": "The evidence directly supports the specific time-saving metric."
+    },
+    {
+      "claim_id": "CLM-063",
+      "statement": "Gusto launched Cofounder, an AI teammate purpose-built for small business owners with context from connected tools",
+      "faithfulness": 1.0,
+      "specificity": 1.0,
+      "hallucination": false,
+      "note": "The press release excerpt directly supports the launch and capabilities of the Cofounder AI teammate."
+    },
+    {
+      "claim_id": "CLM-034",
+      "statement": "Gusto Solo enables S-Corp payroll setup with automated tax filings",
+      "faithfulness": 1.0,
+      "specificity": 1.0,
+      "hallucination": false,
+      "note": "The ad copy directly supports the specific features of Gusto Solo."
+    }
+  ],
+  "brief_judgement": {
+    "rippling_relevance": 1.0,
+    "recency_realness": 1.0,
+    "usefulness": 1.0,
+    "rationale": "The brief is exceptionally well-structured and highly actionable for a Rippling growth marketer. The 'What Changed Recently' section perfectly executes the three-way distinction, carefully hedging press-only signals (like the Anthropic CTO board appointment and Gusto Cofounder) as 'appears to be' rather than settled facts. Furthermore, the Rippling-relevance section provides highly strategic, campaign-ready angles that directly exploit Gusto's positioning vulnerabilities—such as its low-end pricing anchor and the limitations of its unified platform for growing businesses—to Rippling's advantage."
+  },
+  "aggregate": {
+    "n": 12,
+    "mean_faithfulness": 1.0,
+    "mean_specificity": 0.9166666666666666,
+    "hallucination_rate": 0.0
+  }
+}

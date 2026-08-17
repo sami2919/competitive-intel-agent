@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+.ruff_cache/
+.venv/
+# outputs/ briefs + intel.json are shipped deliverables — do NOT ignore them.
+# Only ignore the per-run trace and any local scratch.
+outputs/*_trace.jsonl
+.DS_Store
